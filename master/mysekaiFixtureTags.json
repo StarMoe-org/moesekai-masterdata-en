@@ -1,0 +1,6196 @@
+[
+  {
+    "id": 1,
+    "name": "Ichika Hoshino",
+    "pronunciation": "ichikahoshino",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 1
+  },
+  {
+    "id": 2,
+    "name": "Saki Tenma",
+    "pronunciation": "sakitenma",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 2
+  },
+  {
+    "id": 3,
+    "name": "Shiho Hinomori",
+    "pronunciation": "shihohinomori",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 4
+  },
+  {
+    "id": 4,
+    "name": "Honami Mochizuki",
+    "pronunciation": "honamimochizuki",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 3
+  },
+  {
+    "id": 5,
+    "name": "Leo/need",
+    "pronunciation": "leo/need",
+    "mysekaiFixtureTagType": "unit",
+    "externalId": 1
+  },
+  {
+    "id": 6,
+    "name": "Minori Hanasato",
+    "pronunciation": "minorihanasato",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 5
+  },
+  {
+    "id": 7,
+    "name": "Haruka Kiritani",
+    "pronunciation": "harukakiritani",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 6
+  },
+  {
+    "id": 8,
+    "name": "Airi Momoi",
+    "pronunciation": "airimomoi",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 7
+  },
+  {
+    "id": 9,
+    "name": "Shizuku Hinomori",
+    "pronunciation": "shizukuhinomori",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 8
+  },
+  {
+    "id": 10,
+    "name": "MORE MORE JUMP!",
+    "pronunciation": "moremorejump!",
+    "mysekaiFixtureTagType": "unit",
+    "externalId": 2
+  },
+  {
+    "id": 11,
+    "name": "Kohane Azusawa",
+    "pronunciation": "kohaneazusawa",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 9
+  },
+  {
+    "id": 12,
+    "name": "An Shiraishi",
+    "pronunciation": "anshiraishi",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 10
+  },
+  {
+    "id": 13,
+    "name": "Akito Shinonome",
+    "pronunciation": "akitoshinonome",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 11
+  },
+  {
+    "id": 14,
+    "name": "Toya Aoyagi",
+    "pronunciation": "toyaaoyagi",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 12
+  },
+  {
+    "id": 15,
+    "name": "Vivid BAD SQUAD",
+    "pronunciation": "vividbadsquad",
+    "mysekaiFixtureTagType": "unit",
+    "externalId": 3
+  },
+  {
+    "id": 16,
+    "name": "Tsukasa Tenma",
+    "pronunciation": "tsukasatenma",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 13
+  },
+  {
+    "id": 17,
+    "name": "Emu Otori",
+    "pronunciation": "emuotori",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 14
+  },
+  {
+    "id": 18,
+    "name": "Nene Kusanagi",
+    "pronunciation": "nenekusanagi",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 15
+  },
+  {
+    "id": 19,
+    "name": "Rui Kamishiro",
+    "pronunciation": "ruikamishiro",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 16
+  },
+  {
+    "id": 20,
+    "name": "Wonderlands×Showtime",
+    "pronunciation": "wonderlands×showtime",
+    "mysekaiFixtureTagType": "unit",
+    "externalId": 4
+  },
+  {
+    "id": 21,
+    "name": "Kanade Yoisaki",
+    "pronunciation": "kanadeyoisaki",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 17
+  },
+  {
+    "id": 22,
+    "name": "Mafuyu Asahina",
+    "pronunciation": "mafuyuasahina",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 18
+  },
+  {
+    "id": 23,
+    "name": "Ena Shinonome",
+    "pronunciation": "enashinonome",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 19
+  },
+  {
+    "id": 24,
+    "name": "Mizuki Akiyama",
+    "pronunciation": "mizukiakiyama",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 20
+  },
+  {
+    "id": 25,
+    "name": "Nightcord at 25:00",
+    "pronunciation": "nightcordat25:00",
+    "mysekaiFixtureTagType": "unit",
+    "externalId": 5
+  },
+  {
+    "id": 26,
+    "name": "Hatsune Miku",
+    "pronunciation": "hatsunemiku",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 21
+  },
+  {
+    "id": 27,
+    "name": "Kagamine Rin",
+    "pronunciation": "kagaminerin",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 22
+  },
+  {
+    "id": 28,
+    "name": "Kagamine Len",
+    "pronunciation": "kagaminelen",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 23
+  },
+  {
+    "id": 29,
+    "name": "Megurine Luka",
+    "pronunciation": "megurineluka",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 24
+  },
+  {
+    "id": 30,
+    "name": "MEIKO",
+    "pronunciation": "meiko",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 25
+  },
+  {
+    "id": 31,
+    "name": "KAITO",
+    "pronunciation": "kaito",
+    "mysekaiFixtureTagType": "game_character",
+    "externalId": 26
+  },
+  {
+    "id": 32,
+    "name": "VIRTUAL SINGER",
+    "pronunciation": "virtualsinger",
+    "mysekaiFixtureTagType": "unit",
+    "externalId": 6
+  },
+  {
+    "id": 33,
+    "name": "Park",
+    "pronunciation": "park",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 34,
+    "name": "Garden",
+    "pronunciation": "garden",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 35,
+    "name": "Natural",
+    "pronunciation": "natural",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 36,
+    "name": "Retro Kitchen",
+    "pronunciation": "retrokitchen",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 37,
+    "name": "Pristine Powder Room",
+    "pronunciation": "pristinepowderroom",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 38,
+    "name": "Rustic Japanese",
+    "pronunciation": "rusticjapanese",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 39,
+    "name": "Kid's Room",
+    "pronunciation": "kid'sroom",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 40,
+    "name": "Relaxed",
+    "pronunciation": "relaxed",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 41,
+    "name": "Cute",
+    "pronunciation": "cute",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 42,
+    "name": "Refined Continental",
+    "pronunciation": "refinedcontinental",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 43,
+    "name": "Training Room",
+    "pronunciation": "trainingroom",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 44,
+    "name": "Recording Studio",
+    "pronunciation": "recordingstudio",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 45,
+    "name": "Event Venue",
+    "pronunciation": "eventvenue",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 46,
+    "name": "Arcade",
+    "pronunciation": "arcade",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 48,
+    "name": "Cozy Picnic",
+    "pronunciation": "cozypicnic",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 49,
+    "name": "Astronomer's Observatory",
+    "pronunciation": "astronomer'sobservatory",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 50,
+    "name": "Workbench",
+    "pronunciation": "workbench",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 51,
+    "name": "Dresser",
+    "pronunciation": "dresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 53,
+    "name": "Secret Shop",
+    "pronunciation": "secretshop",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 54,
+    "name": "Converter",
+    "pronunciation": "converter",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 55,
+    "name": "MYSEKAI Info",
+    "pronunciation": "mysekaiinfo",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 56,
+    "name": "Music Player",
+    "pronunciation": "musicplayer",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 57,
+    "name": "Customize Avatar",
+    "pronunciation": "customizeavatar",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 58,
+    "name": "Merch",
+    "pronunciation": "merch",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 61,
+    "name": "Shooting Star Theme",
+    "pronunciation": "shootingstartheme",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 62,
+    "name": "Radiant Clover Theme",
+    "pronunciation": "radiantclovertheme",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 63,
+    "name": "Vibrant Unison Theme",
+    "pronunciation": "vibrantunisontheme",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 64,
+    "name": "Energetic Crown Theme",
+    "pronunciation": "energeticcrowntheme",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 65,
+    "name": "Crumbling Heart Theme",
+    "pronunciation": "crumblinghearttheme",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 66,
+    "name": "Stirring Melody Theme",
+    "pronunciation": "stirringmelodytheme",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 67,
+    "name": "Moonlit Inn",
+    "pronunciation": "moonlitinn",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 68,
+    "name": "Traveler's Campground",
+    "pronunciation": "traveler'scampground",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 70,
+    "name": "Lighting",
+    "pronunciation": "lighting",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 71,
+    "name": "Greenery",
+    "pronunciation": "greenery",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 74,
+    "name": "Instrument",
+    "pronunciation": "instrument",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 75,
+    "name": "Crossover/Collaboration",
+    "pronunciation": "crossover/collaboration",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 76,
+    "name": "Ensemble Stars!! Music Crossover",
+    "pronunciation": "ensemblestars!!musiccrossover",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 77,
+    "name": "Raijin Festival",
+    "pronunciation": "raijinfestival",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 78,
+    "name": "Colorful Atelier",
+    "pronunciation": "colorfulatelier",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 79,
+    "name": "Resort",
+    "pronunciation": "resort",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 80,
+    "name": "Garage",
+    "pronunciation": "garage",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 81,
+    "name": "Dreamy Baby Room",
+    "pronunciation": "dreamybabyroom",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 82,
+    "name": "Cyber City",
+    "pronunciation": "cybercity",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 83,
+    "name": "Happy Blue Whale",
+    "pronunciation": "happybluewhale",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 84,
+    "name": "Persona 5 Royal Collaboration",
+    "pronunciation": "persona5royalcollaboration",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 85,
+    "name": "Smiley Taiyaki Vendor",
+    "pronunciation": "smileytaiyakivendor",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 86,
+    "name": "Fluffy Friend",
+    "pronunciation": "fluffyfriend",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 87,
+    "name": "Tamagotchi Crossover",
+    "pronunciation": "tamagotchicrossover",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 88,
+    "name": "SEKAI Stage",
+    "pronunciation": "sekaistage",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 89,
+    "name": "Halloween",
+    "pronunciation": "halloween",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 90,
+    "name": "Romantic Garden",
+    "pronunciation": "romanticgarden",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 96,
+    "name": "Sanrio Crossover",
+    "pronunciation": "sanriocrossover",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 103,
+    "name": "DEEMO×Cytus Series Collaboration",
+    "pronunciation": "deemo×cytusseriescollaboration",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10001,
+    "name": "Shooting Star House",
+    "pronunciation": "shootingstarhouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10002,
+    "name": "Shooting Star Wallpaper",
+    "pronunciation": "shootingstarwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10003,
+    "name": "Shooting Star Flooring",
+    "pronunciation": "shootingstarflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10004,
+    "name": "Shooting Star Window",
+    "pronunciation": "shootingstarwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10005,
+    "name": "Shooting Star Dresser",
+    "pronunciation": "shootingstardresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10006,
+    "name": "Shooting Star Bed",
+    "pronunciation": "shootingstarbed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10007,
+    "name": "Shooting Star Table",
+    "pronunciation": "shootingstartable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10008,
+    "name": "Shooting Star Chair",
+    "pronunciation": "shootingstarchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10009,
+    "name": "Shooting Star Shelf",
+    "pronunciation": "shootingstarshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10010,
+    "name": "Shooting Star Sofa",
+    "pronunciation": "shootingstarsofa",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10011,
+    "name": "Shooting Star Coffee Table",
+    "pronunciation": "shootingstarcoffeetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10012,
+    "name": "Shooting Star Rug",
+    "pronunciation": "shootingstarrug",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10013,
+    "name": "Shooting Star Bookshelf",
+    "pronunciation": "shootingstarbookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10014,
+    "name": "Shooting Star Wall Clock",
+    "pronunciation": "shootingstarwallclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10015,
+    "name": "Shooting Star Table Lamp",
+    "pronunciation": "shootingstartablelamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10016,
+    "name": "Radiant Clover House",
+    "pronunciation": "radiantcloverhouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10017,
+    "name": "Radiant Clover Wallpaper",
+    "pronunciation": "radiantcloverwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10018,
+    "name": "Radiant Clover Flooring",
+    "pronunciation": "radiantcloverflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10019,
+    "name": "Radiant Clover Window",
+    "pronunciation": "radiantcloverwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10020,
+    "name": "Radiant Clover Dresser",
+    "pronunciation": "radiantcloverdresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10021,
+    "name": "Radiant Clover Bed",
+    "pronunciation": "radiantcloverbed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10022,
+    "name": "Radiant Clover Table",
+    "pronunciation": "radiantclovertable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10023,
+    "name": "Radiant Clover Chair",
+    "pronunciation": "radiantcloverchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10024,
+    "name": "Radiant Clover Shelf",
+    "pronunciation": "radiantclovershelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10025,
+    "name": "Radiant Clover Sofa",
+    "pronunciation": "radiantcloversofa",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10026,
+    "name": "Radiant Clover Coffee Table",
+    "pronunciation": "radiantclovercoffeetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10027,
+    "name": "Radiant Clover Rug",
+    "pronunciation": "radiantcloverrug",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10028,
+    "name": "Radiant Clover Bookshelf",
+    "pronunciation": "radiantcloverbookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10029,
+    "name": "Radiant Clover Wall Clock",
+    "pronunciation": "radiantcloverwallclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10030,
+    "name": "Radiant Clover Table Lamp",
+    "pronunciation": "radiantclovertablelamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10031,
+    "name": "Vibrant Unison House",
+    "pronunciation": "vibrantunisonhouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10032,
+    "name": "Vibrant Unison Wallpaper",
+    "pronunciation": "vibrantunisonwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10033,
+    "name": "Vibrant Unison Flooring",
+    "pronunciation": "vibrantunisonflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10034,
+    "name": "Vibrant Unison Window",
+    "pronunciation": "vibrantunisonwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10035,
+    "name": "Vibrant Unison Dresser",
+    "pronunciation": "vibrantunisondresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10036,
+    "name": "Vibrant Unison Bed",
+    "pronunciation": "vibrantunisonbed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10037,
+    "name": "Vibrant Unison Table",
+    "pronunciation": "vibrantunisontable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10038,
+    "name": "Vibrant Unison Chair",
+    "pronunciation": "vibrantunisonchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10039,
+    "name": "Vibrant Unison Shelf",
+    "pronunciation": "vibrantunisonshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10040,
+    "name": "Vibrant Unison Sofa",
+    "pronunciation": "vibrantunisonsofa",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10041,
+    "name": "Vibrant Unison Coffee Table",
+    "pronunciation": "vibrantunisoncoffeetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10042,
+    "name": "Vibrant Unison Rug",
+    "pronunciation": "vibrantunisonrug",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10043,
+    "name": "Vibrant Unison Bookshelf",
+    "pronunciation": "vibrantunisonbookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10044,
+    "name": "Vibrant Unison Wall Clock",
+    "pronunciation": "vibrantunisonwallclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10045,
+    "name": "Vibrant Unison Table Lamp",
+    "pronunciation": "vibrantunisontablelamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10046,
+    "name": "Energetic Crown House",
+    "pronunciation": "energeticcrownhouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10047,
+    "name": "Energetic Crown Wallpaper",
+    "pronunciation": "energeticcrownwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10048,
+    "name": "Energetic Crown Flooring",
+    "pronunciation": "energeticcrownflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10049,
+    "name": "Energetic Crown Window",
+    "pronunciation": "energeticcrownwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10050,
+    "name": "Energetic Crown Dresser",
+    "pronunciation": "energeticcrowndresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10051,
+    "name": "Energetic Crown Bed",
+    "pronunciation": "energeticcrownbed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10052,
+    "name": "Energetic Crown Table",
+    "pronunciation": "energeticcrowntable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10053,
+    "name": "Energetic Crown Chair",
+    "pronunciation": "energeticcrownchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10054,
+    "name": "Energetic Crown Shelf",
+    "pronunciation": "energeticcrownshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10055,
+    "name": "Energetic Crown Sofa",
+    "pronunciation": "energeticcrownsofa",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10056,
+    "name": "Energetic Crown Coffee Table",
+    "pronunciation": "energeticcrowncoffeetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10057,
+    "name": "Energetic Crown Rug",
+    "pronunciation": "energeticcrownrug",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10058,
+    "name": "Energetic Crown Bookshelf",
+    "pronunciation": "energeticcrownbookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10059,
+    "name": "Energetic Crown Wall Clock",
+    "pronunciation": "energeticcrownwallclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10060,
+    "name": "Energetic Crown Table Lamp",
+    "pronunciation": "energeticcrowntablelamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10061,
+    "name": "Crumbling Heart House",
+    "pronunciation": "crumblinghearthouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10062,
+    "name": "Crumbling Heart Wallpaper",
+    "pronunciation": "crumblingheartwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10063,
+    "name": "Crumbling Heart Flooring",
+    "pronunciation": "crumblingheartflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10064,
+    "name": "Crumbling Heart Window",
+    "pronunciation": "crumblingheartwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10065,
+    "name": "Crumbling Heart Dresser",
+    "pronunciation": "crumblingheartdresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10066,
+    "name": "Crumbling Heart Bed",
+    "pronunciation": "crumblingheartbed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10067,
+    "name": "Crumbling Heart Table",
+    "pronunciation": "crumblinghearttable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10068,
+    "name": "Crumbling Heart Chair",
+    "pronunciation": "crumblingheartchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10069,
+    "name": "Crumbling Heart Shelf",
+    "pronunciation": "crumblingheartshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10070,
+    "name": "Crumbling Heart Sofa",
+    "pronunciation": "crumblingheartsofa",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10071,
+    "name": "Crumbling Heart Coffee Table",
+    "pronunciation": "crumblingheartcoffeetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10072,
+    "name": "Crumbling Heart Rug",
+    "pronunciation": "crumblingheartrug",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10073,
+    "name": "Crumbling Heart Bookshelf",
+    "pronunciation": "crumblingheartbookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10074,
+    "name": "Crumbling Heart Wall Clock",
+    "pronunciation": "crumblingheartwallclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10075,
+    "name": "Crumbling Heart Table Lamp",
+    "pronunciation": "crumblinghearttablelamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10076,
+    "name": "Stirring Melody House",
+    "pronunciation": "stirringmelodyhouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10077,
+    "name": "Stirring Melody Wallpaper",
+    "pronunciation": "stirringmelodywallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10078,
+    "name": "Stirring Melody Flooring",
+    "pronunciation": "stirringmelodyflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10079,
+    "name": "Stirring Melody Window",
+    "pronunciation": "stirringmelodywindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10080,
+    "name": "Stirring Melody Dresser",
+    "pronunciation": "stirringmelodydresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10081,
+    "name": "Stirring Melody Bed",
+    "pronunciation": "stirringmelodybed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10082,
+    "name": "Stirring Melody Table",
+    "pronunciation": "stirringmelodytable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10083,
+    "name": "Stirring Melody Chair",
+    "pronunciation": "stirringmelodychair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10084,
+    "name": "Stirring Melody Shelf",
+    "pronunciation": "stirringmelodyshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10085,
+    "name": "Stirring Melody Sofa",
+    "pronunciation": "stirringmelodysofa",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10086,
+    "name": "Stirring Melody Coffee Table",
+    "pronunciation": "stirringmelodycoffeetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10087,
+    "name": "Stirring Melody Rug",
+    "pronunciation": "stirringmelodyrug",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10088,
+    "name": "Stirring Melody Bookshelf",
+    "pronunciation": "stirringmelodybookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10089,
+    "name": "Stirring Melody Wall Clock",
+    "pronunciation": "stirringmelodywallclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10090,
+    "name": "Stirring Melody Table Lamp",
+    "pronunciation": "stirringmelodytablelamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10091,
+    "name": "Wooden Workbench",
+    "pronunciation": "woodenworkbench",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10092,
+    "name": "Stone Workbench",
+    "pronunciation": "stoneworkbench",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10093,
+    "name": "Iron Workbench",
+    "pronunciation": "ironworkbench",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10094,
+    "name": "Futuristic Workbench",
+    "pronunciation": "futuristicworkbench",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10095,
+    "name": "Simple Planner",
+    "pronunciation": "simpleplanner",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10096,
+    "name": "Leather Planner",
+    "pronunciation": "leatherplanner",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10097,
+    "name": "Wooden Converter",
+    "pronunciation": "woodenconverter",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10098,
+    "name": "Stone Converter",
+    "pronunciation": "stoneconverter",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10099,
+    "name": "Iron Converter",
+    "pronunciation": "ironconverter",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10100,
+    "name": "Futuristic Converter",
+    "pronunciation": "futuristicconverter",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10101,
+    "name": "Stereo System",
+    "pronunciation": "stereosystem",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10102,
+    "name": "Record Player",
+    "pronunciation": "recordplayer",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10103,
+    "name": "Gramophone",
+    "pronunciation": "gramophone",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10104,
+    "name": "Simple Laptop",
+    "pronunciation": "simplelaptop",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10105,
+    "name": "Simple Desktop Computer",
+    "pronunciation": "simpledesktopcomputer",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10111,
+    "name": "Dirt Path",
+    "pronunciation": "dirtpath",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10112,
+    "name": "Stone Path",
+    "pronunciation": "stonepath",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10113,
+    "name": "Brick Path",
+    "pronunciation": "brickpath",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10114,
+    "name": "Simple Wooden Fence",
+    "pronunciation": "simplewoodenfence",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10115,
+    "name": "European Stone Fence",
+    "pronunciation": "europeanstonefence",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10116,
+    "name": "Iron Garden Fence",
+    "pronunciation": "irongardenfence",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10117,
+    "name": "Hedge",
+    "pronunciation": "hedge",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10118,
+    "name": "Broadleaf Tree Seedling",
+    "pronunciation": "broadleaftreeseedling",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10119,
+    "name": "Conifer Tree Seedling",
+    "pronunciation": "conifertreeseedling",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10120,
+    "name": "Tropical Tree Seedling",
+    "pronunciation": "tropicaltreeseedling",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10121,
+    "name": "Dusky Tree Seedling",
+    "pronunciation": "duskytreeseedling",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10122,
+    "name": "Broadleaf Tree",
+    "pronunciation": "broadleaftree",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10123,
+    "name": "Conifer Tree",
+    "pronunciation": "conifertree",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10124,
+    "name": "Tropical Tree",
+    "pronunciation": "tropicaltree",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10125,
+    "name": "Dusky Tree",
+    "pronunciation": "duskytree",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10126,
+    "name": "Red Tulip Bulbs",
+    "pronunciation": "redtulipbulbs",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10127,
+    "name": "Red Pansy Seeds",
+    "pronunciation": "redpansyseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10128,
+    "name": "Purple Hydrangea Seeds",
+    "pronunciation": "purplehydrangeaseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10129,
+    "name": "White Lily of the Valley Seeds",
+    "pronunciation": "whitelilyofthevalleyseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10130,
+    "name": "Red Rose Seeds",
+    "pronunciation": "redroseseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10131,
+    "name": "Red Tulips",
+    "pronunciation": "redtulips",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10132,
+    "name": "Red Pansies",
+    "pronunciation": "redpansies",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10133,
+    "name": "Purple Hydrangeas",
+    "pronunciation": "purplehydrangeas",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10134,
+    "name": "White Lilies of the Valley",
+    "pronunciation": "whiteliliesofthevalley",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10135,
+    "name": "Red Roses",
+    "pronunciation": "redroses",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10136,
+    "name": "Natural House",
+    "pronunciation": "naturalhouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10137,
+    "name": "Natural Wallpaper",
+    "pronunciation": "naturalwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10138,
+    "name": "Natural Flooring",
+    "pronunciation": "naturalflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10139,
+    "name": "Natural Window",
+    "pronunciation": "naturalwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10140,
+    "name": "Natural Dresser",
+    "pronunciation": "naturaldresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10141,
+    "name": "Natural Bed",
+    "pronunciation": "naturalbed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10142,
+    "name": "Natural Dining Table",
+    "pronunciation": "naturaldiningtable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10143,
+    "name": "Natural Dining Chair",
+    "pronunciation": "naturaldiningchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10144,
+    "name": "Natural Bookshelf",
+    "pronunciation": "naturalbookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10145,
+    "name": "Natural Closet",
+    "pronunciation": "naturalcloset",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10146,
+    "name": "Natural Floor Lamp",
+    "pronunciation": "naturalfloorlamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10147,
+    "name": "Natural Stool",
+    "pronunciation": "naturalstool",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10148,
+    "name": "Natural Vanity Table",
+    "pronunciation": "naturalvanitytable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10149,
+    "name": "Natural Coffee Table",
+    "pronunciation": "naturalcoffeetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10150,
+    "name": "Natural Sofa",
+    "pronunciation": "naturalsofa",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10151,
+    "name": "Natural Armchair",
+    "pronunciation": "naturalarmchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10152,
+    "name": "Natural Wall Clock",
+    "pronunciation": "naturalwallclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10153,
+    "name": "Natural LCD TV",
+    "pronunciation": "naturallcdtv",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10154,
+    "name": "Kitchen Counter",
+    "pronunciation": "kitchencounter",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10155,
+    "name": "Stove",
+    "pronunciation": "stove",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10156,
+    "name": "Sink",
+    "pronunciation": "sink",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10157,
+    "name": "Refrigerator",
+    "pronunciation": "refrigerator",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10158,
+    "name": "Kitchen Wall Shelves",
+    "pronunciation": "kitchenwallshelves",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10159,
+    "name": "Kitchen Utensils",
+    "pronunciation": "kitchenutensils",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10160,
+    "name": "Cutting Board",
+    "pronunciation": "cuttingboard",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10161,
+    "name": "Spice Rack",
+    "pronunciation": "spicerack",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10162,
+    "name": "Stacked Dinnerware",
+    "pronunciation": "stackeddinnerware",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10163,
+    "name": "Coffee Maker",
+    "pronunciation": "coffeemaker",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10164,
+    "name": "Toaster",
+    "pronunciation": "toaster",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10165,
+    "name": "Microwave",
+    "pronunciation": "microwave",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10166,
+    "name": "Pristine Powder Room Wallpaper",
+    "pronunciation": "pristinepowderroomwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10167,
+    "name": "Pristine Powder Room Flooring",
+    "pronunciation": "pristinepowderroomflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10168,
+    "name": "Bathroom Sink",
+    "pronunciation": "bathroomsink",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10169,
+    "name": "Washing Machine",
+    "pronunciation": "washingmachine",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10170,
+    "name": "Bath Mat",
+    "pronunciation": "bathmat",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10172,
+    "name": "Handheld Vacuum",
+    "pronunciation": "handheldvacuum",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10173,
+    "name": "Toothbrush and Cup",
+    "pronunciation": "toothbrushandcup",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10174,
+    "name": "Hair Dryer",
+    "pronunciation": "hairdryer",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10175,
+    "name": "Garden Flower Bed",
+    "pronunciation": "gardenflowerbed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10176,
+    "name": "Garden Umbrella Table",
+    "pronunciation": "gardenumbrellatable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10177,
+    "name": "Garden Iron Chair",
+    "pronunciation": "gardenironchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10178,
+    "name": "Garden Bench",
+    "pronunciation": "gardenbench",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10179,
+    "name": "Garden Lattice Planter",
+    "pronunciation": "gardenlatticeplanter",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10180,
+    "name": "Garden Ladder",
+    "pronunciation": "gardenladder",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10181,
+    "name": "Garden Potting Bench",
+    "pronunciation": "gardenpottingbench",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10182,
+    "name": "Garden Wheelbarrow",
+    "pronunciation": "gardenwheelbarrow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10183,
+    "name": "Garden Watering Can",
+    "pronunciation": "gardenwateringcan",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10184,
+    "name": "Swings",
+    "pronunciation": "swings",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10185,
+    "name": "Slide",
+    "pronunciation": "slide",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10186,
+    "name": "Playground Rocking Bear",
+    "pronunciation": "playgroundrockingbear",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10187,
+    "name": "Sandbox",
+    "pronunciation": "sandbox",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10188,
+    "name": "Seesaw",
+    "pronunciation": "seesaw",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10189,
+    "name": "Park Bench",
+    "pronunciation": "parkbench",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10190,
+    "name": "Park Clock",
+    "pronunciation": "parkclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10191,
+    "name": "Park Fountain",
+    "pronunciation": "parkfountain",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10192,
+    "name": "Horizontal Bars",
+    "pronunciation": "horizontalbars",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10193,
+    "name": "Park Tire",
+    "pronunciation": "parktire",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10194,
+    "name": "Spinning Jungle Gym",
+    "pronunciation": "spinningjunglegym",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10195,
+    "name": "Antique Streetlight",
+    "pronunciation": "antiquestreetlight",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10196,
+    "name": "Bucket and Shovel",
+    "pronunciation": "bucketandshovel",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10197,
+    "name": "Playground Tunnels",
+    "pronunciation": "playgroundtunnels",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10198,
+    "name": "Rustic Japanese House",
+    "pronunciation": "rusticjapanesehouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10199,
+    "name": "Rustic Japanese Wallpaper",
+    "pronunciation": "rusticjapanesewallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10200,
+    "name": "Rustic Japanese Tatami",
+    "pronunciation": "rusticjapanesetatami",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10201,
+    "name": "Rustic Japanese Window",
+    "pronunciation": "rusticjapanesewindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10202,
+    "name": "Rustic Japanese Mirror",
+    "pronunciation": "rusticjapanesemirror",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10203,
+    "name": "Rustic Japanese Low Table",
+    "pronunciation": "rusticjapaneselowtable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10204,
+    "name": "Rustic Japanese Futon",
+    "pronunciation": "rusticjapanesefuton",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10205,
+    "name": "Rustic Japanese TV",
+    "pronunciation": "rusticjapanesetv",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10206,
+    "name": "Rustic Japanese Cupboard",
+    "pronunciation": "rusticjapanesecupboard",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10207,
+    "name": "Rustic Japanese Wall Scroll",
+    "pronunciation": "rusticjapanesewallscroll",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10208,
+    "name": "Rustic Japanese Antique Wall Clock",
+    "pronunciation": "rusticjapaneseantiquewallclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10209,
+    "name": "Rustic Japanese Kettle",
+    "pronunciation": "rusticjapanesekettle",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10210,
+    "name": "Rustic Japanese Teapot",
+    "pronunciation": "rusticjapaneseteapot",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10211,
+    "name": "Rustic Japanese Telephone",
+    "pronunciation": "rusticjapanesetelephone",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10212,
+    "name": "Rustic Japanese Lucky Cat",
+    "pronunciation": "rusticjapaneseluckycat",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10213,
+    "name": "Kid's Room Wallpaper",
+    "pronunciation": "kid'sroomwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10214,
+    "name": "Kid's Room Flooring",
+    "pronunciation": "kid'sroomflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10215,
+    "name": "Kid's Room Teddy Bear Window",
+    "pronunciation": "kid'sroomteddybearwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10216,
+    "name": "Kid's Room Colorful Dresser",
+    "pronunciation": "kid'sroomcolorfuldresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10217,
+    "name": "Kid's Room Teddy Bear Bed",
+    "pronunciation": "kid'sroomteddybearbed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10218,
+    "name": "Kid's Room Table",
+    "pronunciation": "kid'sroomtable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10219,
+    "name": "Kid's Room Chair",
+    "pronunciation": "kid'sroomchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10220,
+    "name": "Kid's Room Picture Book Shelf",
+    "pronunciation": "kid'sroompicturebookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10221,
+    "name": "Kid's Room Toy Box",
+    "pronunciation": "kid'sroomtoybox",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10222,
+    "name": "Kid's Room Rocking Horse",
+    "pronunciation": "kid'sroomrockinghorse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10223,
+    "name": "Kid's Room Train Set",
+    "pronunciation": "kid'sroomtrainset",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10224,
+    "name": "Kid's Room Drawing",
+    "pronunciation": "kid'sroomdrawing",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10225,
+    "name": "Kid's Room Toy Car",
+    "pronunciation": "kid'sroomtoycar",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10226,
+    "name": "Kid's Room Elephant Plushie",
+    "pronunciation": "kid'sroomelephantplushie",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10227,
+    "name": "Kid's Room Jack-in-the-Box",
+    "pronunciation": "kid'sroomjack-in-the-box",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10228,
+    "name": "Kid's Room Building Blocks",
+    "pronunciation": "kid'sroombuildingblocks",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10229,
+    "name": "Relaxed Wallpaper",
+    "pronunciation": "relaxedwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10230,
+    "name": "Relaxed Flooring",
+    "pronunciation": "relaxedflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10231,
+    "name": "Relaxed Window",
+    "pronunciation": "relaxedwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10232,
+    "name": "Relaxed Dresser",
+    "pronunciation": "relaxeddresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10233,
+    "name": "Relaxed Table Mirror",
+    "pronunciation": "relaxedtablemirror",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10234,
+    "name": "Relaxed Bed",
+    "pronunciation": "relaxedbed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10235,
+    "name": "Relaxed Desk",
+    "pronunciation": "relaxeddesk",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10236,
+    "name": "Relaxed Desk Chair",
+    "pronunciation": "relaxeddeskchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10237,
+    "name": "Relaxed Bookshelf",
+    "pronunciation": "relaxedbookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10238,
+    "name": "Relaxed Checkered Rug",
+    "pronunciation": "relaxedcheckeredrug",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10239,
+    "name": "Relaxed Poster",
+    "pronunciation": "relaxedposter",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10240,
+    "name": "Relaxed Backpack",
+    "pronunciation": "relaxedbackpack",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10241,
+    "name": "Relaxed Desk Lamp",
+    "pronunciation": "relaxeddesklamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10242,
+    "name": "Relaxed Stack of Manga",
+    "pronunciation": "relaxedstackofmanga",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10243,
+    "name": "Relaxed Handheld Game Console",
+    "pronunciation": "relaxedhandheldgameconsole",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10244,
+    "name": "Relaxed RC Car",
+    "pronunciation": "relaxedrccar",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10245,
+    "name": "Relaxed Alarm Clock",
+    "pronunciation": "relaxedalarmclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10246,
+    "name": "Relaxed Beagle Plushie",
+    "pronunciation": "relaxedbeagleplushie",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10247,
+    "name": "Relaxed Clothes Rack",
+    "pronunciation": "relaxedclothesrack",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10248,
+    "name": "Cute Wallpaper",
+    "pronunciation": "cutewallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10249,
+    "name": "Cute Flooring",
+    "pronunciation": "cuteflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10250,
+    "name": "Cute Window",
+    "pronunciation": "cutewindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10251,
+    "name": "Cute Dresser",
+    "pronunciation": "cutedresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10252,
+    "name": "Cute Vanity Table",
+    "pronunciation": "cutevanitytable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10253,
+    "name": "Cute Bed",
+    "pronunciation": "cutebed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10254,
+    "name": "Cute Coffee Table",
+    "pronunciation": "cutecoffeetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10255,
+    "name": "Cute Cushion",
+    "pronunciation": "cutecushion",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10256,
+    "name": "Cute Wardrobe",
+    "pronunciation": "cutewardrobe",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10257,
+    "name": "Cute Floor Lamp",
+    "pronunciation": "cutefloorlamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10258,
+    "name": "Cute Rug",
+    "pronunciation": "cuterug",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10259,
+    "name": "Cute Bow Chair",
+    "pronunciation": "cutebowchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10260,
+    "name": "Cute Wall Clock",
+    "pronunciation": "cutewallclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10261,
+    "name": "Cute Wall Shelf",
+    "pronunciation": "cutewallshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10262,
+    "name": "Cute Bunny Plushie",
+    "pronunciation": "cutebunnyplushie",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10263,
+    "name": "Cute Makeup Organizer",
+    "pronunciation": "cutemakeuporganizer",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10264,
+    "name": "Cute Perfume",
+    "pronunciation": "cuteperfume",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10265,
+    "name": "Refined Continental Wallpaper",
+    "pronunciation": "refinedcontinentalwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10266,
+    "name": "Refined Continental Flooring",
+    "pronunciation": "refinedcontinentalflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10267,
+    "name": "Refined Continental Window",
+    "pronunciation": "refinedcontinentalwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10268,
+    "name": "Refined Continental Dresser",
+    "pronunciation": "refinedcontinentaldresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10269,
+    "name": "Refined Continental Mirror",
+    "pronunciation": "refinedcontinentalmirror",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10270,
+    "name": "Refined Continental Bed",
+    "pronunciation": "refinedcontinentalbed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10271,
+    "name": "Refined Continental Round Table",
+    "pronunciation": "refinedcontinentalroundtable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10272,
+    "name": "Refined Continental Sofa",
+    "pronunciation": "refinedcontinentalsofa",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10273,
+    "name": "Refined Continental Bookshelf",
+    "pronunciation": "refinedcontinentalbookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10274,
+    "name": "Refined Continental Table Lamp",
+    "pronunciation": "refinedcontinentaltablelamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10275,
+    "name": "Refined Continental Cabinet",
+    "pronunciation": "refinedcontinentalcabinet",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10276,
+    "name": "Refined Continental Coat Rack",
+    "pronunciation": "refinedcontinentalcoatrack",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10277,
+    "name": "Refined Continental Heart Rug",
+    "pronunciation": "refinedcontinentalheartrug",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10278,
+    "name": "Refined Continental Wall Clock",
+    "pronunciation": "refinedcontinentalwallclock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10279,
+    "name": "Refined Continental Cat Print",
+    "pronunciation": "refinedcontinentalcatprint",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10280,
+    "name": "Refined Continental Fashion Magazines",
+    "pronunciation": "refinedcontinentalfashionmagazines",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10281,
+    "name": "Refined Continental Vase",
+    "pronunciation": "refinedcontinentalvase",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10282,
+    "name": "Refined Continental Scented Candles",
+    "pronunciation": "refinedcontinentalscentedcandles",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10283,
+    "name": "Refined Continental Bear Plushie",
+    "pronunciation": "refinedcontinentalbearplushie",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10284,
+    "name": "Refined Continental Tea Set",
+    "pronunciation": "refinedcontinentalteaset",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10285,
+    "name": "Water Dispenser",
+    "pronunciation": "waterdispenser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10286,
+    "name": "Yoga Mat",
+    "pronunciation": "yogamat",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10287,
+    "name": "Ab Wheel",
+    "pronunciation": "abwheel",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10288,
+    "name": "Exercise Ball",
+    "pronunciation": "exerciseball",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10289,
+    "name": "Air Conditioner",
+    "pronunciation": "airconditioner",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10290,
+    "name": "Training Room Mirror",
+    "pronunciation": "trainingroommirror",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10291,
+    "name": "Treadmill",
+    "pronunciation": "treadmill",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10292,
+    "name": "Treadmill Set",
+    "pronunciation": "treadmillset",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10293,
+    "name": "Exercise Bike",
+    "pronunciation": "exercisebike",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10294,
+    "name": "Dumbbells",
+    "pronunciation": "dumbbells",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10295,
+    "name": "Recording Studio Wallpaper",
+    "pronunciation": "recordingstudiowallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10296,
+    "name": "Recording Studio Flooring",
+    "pronunciation": "recordingstudioflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10297,
+    "name": "Synthesizer",
+    "pronunciation": "synthesizer",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10298,
+    "name": "Electric Guitar",
+    "pronunciation": "electricguitar",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10299,
+    "name": "Electric Bass",
+    "pronunciation": "electricbass",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10300,
+    "name": "Drum Kit",
+    "pronunciation": "drumset",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10301,
+    "name": "Amp",
+    "pronunciation": "amp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10302,
+    "name": "Headphones",
+    "pronunciation": "headphones",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10303,
+    "name": "Mic Stand",
+    "pronunciation": "micstand",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10304,
+    "name": "Stack of CDs",
+    "pronunciation": "stackofcds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10305,
+    "name": "Folding Conference Table",
+    "pronunciation": "foldingconferencetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10306,
+    "name": "Whiteboard",
+    "pronunciation": "whiteboard",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10307,
+    "name": "Claw Machine",
+    "pronunciation": "clawmachine",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10308,
+    "name": "Puyo Puyo Champions Machine",
+    "pronunciation": "puyopuyochampionsmachine",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10309,
+    "name": "Arcade Stool",
+    "pronunciation": "arcadestool",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10310,
+    "name": "Print Sticker Machine",
+    "pronunciation": "printstickermachine",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10311,
+    "name": "CHUNITHM Machine",
+    "pronunciation": "chunithmmachine",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10312,
+    "name": "Anthurium",
+    "pronunciation": "anthurium",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10313,
+    "name": "Ivy",
+    "pronunciation": "ivy",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10314,
+    "name": "Sugar Vine",
+    "pronunciation": "sugarvine",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10315,
+    "name": "Monstera",
+    "pronunciation": "monstera",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10316,
+    "name": "Yucca",
+    "pronunciation": "yucca",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10317,
+    "name": "Echeveria",
+    "pronunciation": "echeveria",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10318,
+    "name": "Cozy Picnic Blanket",
+    "pronunciation": "cozypicnicblanket",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10319,
+    "name": "Cozy Picnic Crate Table",
+    "pronunciation": "cozypicniccratetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10320,
+    "name": "Cozy Picnic Bicycle",
+    "pronunciation": "cozypicnicbicycle",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10321,
+    "name": "Cozy Picnic Tree Stump",
+    "pronunciation": "cozypicnictreestump",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10322,
+    "name": "Cozy Picnic Sandwich Box",
+    "pronunciation": "cozypicnicsandwichbox",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10323,
+    "name": "Cozy Picnic Juice Pitcher",
+    "pronunciation": "cozypicnicjuicepitcher",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10324,
+    "name": "Cozy Picnic Basket",
+    "pronunciation": "cozypicnicbasket",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10325,
+    "name": "Cozy Picnic Flower Basket",
+    "pronunciation": "cozypicnicflowerbasket",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10326,
+    "name": "Cozy Picnic Lunch Box",
+    "pronunciation": "cozypicniclunchbox",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10327,
+    "name": "Cozy Picnic Thermos",
+    "pronunciation": "cozypicnicthermos",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10328,
+    "name": "Astronomer's Observatory Wallpaper",
+    "pronunciation": "astronomer'sobservatorywallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10329,
+    "name": "Astronomer's Observatory Flooring",
+    "pronunciation": "astronomer'sobservatoryflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10330,
+    "name": "Astronomer's Observatory Window",
+    "pronunciation": "astronomer'sobservatorywindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10331,
+    "name": "Astronomer's Observatory Dresser",
+    "pronunciation": "astronomer'sobservatorydresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10332,
+    "name": "Astronomer's Observatory Mirror",
+    "pronunciation": "astronomer'sobservatorymirror",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10333,
+    "name": "Astronomer's Observatory Telescope",
+    "pronunciation": "astronomer'sobservatorytelescope",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10334,
+    "name": "Astronomer's Observatory Canopy Bed",
+    "pronunciation": "astronomer'sobservatorycanopybed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10335,
+    "name": "Astronomer's Observatory Bookshelf",
+    "pronunciation": "astronomer'sobservatorybookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10336,
+    "name": "Astronomer's Observatory Desk",
+    "pronunciation": "astronomer'sobservatorydesk",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10337,
+    "name": "Astronomer's Observatory Chair",
+    "pronunciation": "astronomer'sobservatorychair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10338,
+    "name": "Astronomer's Observatory Box of Scrolls",
+    "pronunciation": "astronomer'sobservatoryboxofscrolls",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10339,
+    "name": "Astronomer's Observatory Celestial Globe",
+    "pronunciation": "astronomer'sobservatorycelestialglobe",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10340,
+    "name": "Astronomer's Observatory Stack of Books",
+    "pronunciation": "astronomer'sobservatorystackofbooks",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10341,
+    "name": "Astronomer's Observatory Table Lamp",
+    "pronunciation": "astronomer'sobservatorytablelamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10342,
+    "name": "Ichika Plushie (S)",
+    "pronunciation": "ichikaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10343,
+    "name": "Ichika Plushie (M)",
+    "pronunciation": "ichikaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10344,
+    "name": "Ichika Plushie (L)",
+    "pronunciation": "ichikaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10345,
+    "name": "Saki Plushie (S)",
+    "pronunciation": "sakiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10346,
+    "name": "Saki Plushie (M)",
+    "pronunciation": "sakiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10347,
+    "name": "Saki Plushie (L)",
+    "pronunciation": "sakiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10348,
+    "name": "Honami Plushie (S)",
+    "pronunciation": "honamiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10349,
+    "name": "Honami Plushie (M)",
+    "pronunciation": "honamiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10350,
+    "name": "Honami Plushie (L)",
+    "pronunciation": "honamiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10351,
+    "name": "Shiho Plushie (S)",
+    "pronunciation": "shihoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10352,
+    "name": "Shiho Plushie (M)",
+    "pronunciation": "shihoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10353,
+    "name": "Shiho Plushie (L)",
+    "pronunciation": "shihoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10354,
+    "name": "Minori Plushie (S)",
+    "pronunciation": "minoriplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10355,
+    "name": "Minori Plushie (M)",
+    "pronunciation": "minoriplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10356,
+    "name": "Minori Plushie (L)",
+    "pronunciation": "minoriplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10357,
+    "name": "Haruka Plushie (S)",
+    "pronunciation": "harukaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10358,
+    "name": "Haruka Plushie (M)",
+    "pronunciation": "harukaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10359,
+    "name": "Haruka Plushie (L)",
+    "pronunciation": "harukaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10360,
+    "name": "Airi Plushie (S)",
+    "pronunciation": "airiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10361,
+    "name": "Airi Plushie (M)",
+    "pronunciation": "airiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10362,
+    "name": "Airi Plushie (L)",
+    "pronunciation": "airiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10363,
+    "name": "Shizuku Plushie (S)",
+    "pronunciation": "shizukuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10364,
+    "name": "Shizuku Plushie (M)",
+    "pronunciation": "shizukuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10365,
+    "name": "Shizuku Plushie (L)",
+    "pronunciation": "shizukuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10366,
+    "name": "Kohane Plushie (S)",
+    "pronunciation": "kohaneplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10367,
+    "name": "Kohane Plushie (M)",
+    "pronunciation": "kohaneplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10368,
+    "name": "Kohane Plushie (L)",
+    "pronunciation": "kohaneplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10369,
+    "name": "An Plushie (S)",
+    "pronunciation": "anplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10370,
+    "name": "An Plushie (M)",
+    "pronunciation": "anplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10371,
+    "name": "An Plushie (L)",
+    "pronunciation": "anplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10372,
+    "name": "Akito Plushie (S)",
+    "pronunciation": "akitoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10373,
+    "name": "Akito Plushie (M)",
+    "pronunciation": "akitoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10374,
+    "name": "Akito Plushie (L)",
+    "pronunciation": "akitoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10375,
+    "name": "Toya Plushie (S)",
+    "pronunciation": "toyaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10376,
+    "name": "Toya Plushie (M)",
+    "pronunciation": "toyaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10377,
+    "name": "Toya Plushie (L)",
+    "pronunciation": "toyaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10378,
+    "name": "Tsukasa Plushie (S)",
+    "pronunciation": "tsukasaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10379,
+    "name": "Tsukasa Plushie (M)",
+    "pronunciation": "tsukasaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10380,
+    "name": "Tsukasa Plushie (L)",
+    "pronunciation": "tsukasaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10381,
+    "name": "Emu Plushie (S)",
+    "pronunciation": "emuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10382,
+    "name": "Emu Plushie (M)",
+    "pronunciation": "emuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10383,
+    "name": "Emu Plushie (L)",
+    "pronunciation": "emuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10384,
+    "name": "Nene Plushie (S)",
+    "pronunciation": "neneplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10385,
+    "name": "Nene Plushie (M)",
+    "pronunciation": "neneplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10386,
+    "name": "Nene Plushie (L)",
+    "pronunciation": "neneplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10387,
+    "name": "Rui Plushie (S)",
+    "pronunciation": "ruiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10388,
+    "name": "Rui Plushie (M)",
+    "pronunciation": "ruiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10389,
+    "name": "Rui Plushie (L)",
+    "pronunciation": "ruiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10390,
+    "name": "Kanade Plushie (S)",
+    "pronunciation": "kanadeplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10391,
+    "name": "Kanade Plushie (M)",
+    "pronunciation": "kanadeplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10392,
+    "name": "Kanade Plushie (L)",
+    "pronunciation": "kanadeplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10393,
+    "name": "Mafuyu Plushie (S)",
+    "pronunciation": "mafuyuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10394,
+    "name": "Mafuyu Plushie (M)",
+    "pronunciation": "mafuyuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10395,
+    "name": "Mafuyu Plushie (L)",
+    "pronunciation": "mafuyuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10396,
+    "name": "Ena Plushie (S)",
+    "pronunciation": "enaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10397,
+    "name": "Ena Plushie (M)",
+    "pronunciation": "enaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10398,
+    "name": "Ena Plushie (L)",
+    "pronunciation": "enaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10399,
+    "name": "Mizuki Plushie (S)",
+    "pronunciation": "mizukiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10400,
+    "name": "Mizuki Plushie (M)",
+    "pronunciation": "mizukiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10401,
+    "name": "Mizuki Plushie (L)",
+    "pronunciation": "mizukiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10402,
+    "name": "Miku Plushie (S)",
+    "pronunciation": "mikuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10403,
+    "name": "Miku Plushie (M)",
+    "pronunciation": "mikuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10404,
+    "name": "Miku Plushie (L)",
+    "pronunciation": "mikuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10405,
+    "name": "Rin Plushie (S)",
+    "pronunciation": "rinplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10406,
+    "name": "Rin Plushie (M)",
+    "pronunciation": "rinplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10407,
+    "name": "Rin Plushie (L)",
+    "pronunciation": "rinplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10408,
+    "name": "Len Plushie (S)",
+    "pronunciation": "lenplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10409,
+    "name": "Len Plushie (M)",
+    "pronunciation": "lenplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10410,
+    "name": "Len Plushie (L)",
+    "pronunciation": "lenplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10411,
+    "name": "Luka Plushie (S)",
+    "pronunciation": "lukaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10412,
+    "name": "Luka Plushie (M)",
+    "pronunciation": "lukaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10413,
+    "name": "Luka Plushie (L)",
+    "pronunciation": "lukaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10414,
+    "name": "MEIKO Plushie (S)",
+    "pronunciation": "meikoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10415,
+    "name": "MEIKO Plushie (M)",
+    "pronunciation": "meikoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10416,
+    "name": "MEIKO Plushie (L)",
+    "pronunciation": "meikoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10417,
+    "name": "KAITO Plushie (S)",
+    "pronunciation": "kaitoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10418,
+    "name": "KAITO Plushie (M)",
+    "pronunciation": "kaitoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10419,
+    "name": "KAITO Plushie (L)",
+    "pronunciation": "kaitoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10420,
+    "name": "Nostalgic Jungle Gym",
+    "pronunciation": "nostalgicjunglegym",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10421,
+    "name": "Livestream Camera",
+    "pronunciation": "livestreamcamera",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10422,
+    "name": "Puyo Puyo 2 Machine",
+    "pronunciation": "puyopuyo2machine",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10423,
+    "name": "Robo-Nene Decoration",
+    "pronunciation": "robo-nenedecoration",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10424,
+    "name": "The Usual Diner Booth",
+    "pronunciation": "theusualdinerbooth",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10429,
+    "name": "Angled Display Stand",
+    "pronunciation": "angleddisplaystand",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10430,
+    "name": "Low Angled Display Stand",
+    "pronunciation": "lowangleddisplaystand",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10431,
+    "name": "Tall Angled Display Stand",
+    "pronunciation": "tallangleddisplaystand",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10432,
+    "name": "Flat Display Stand",
+    "pronunciation": "flatdisplaystand",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10433,
+    "name": "Low Flat Display Stand",
+    "pronunciation": "lowflatdisplaystand",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10434,
+    "name": "Tall Flat Display Stand",
+    "pronunciation": "tallflatdisplaystand",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10435,
+    "name": "Wall Board",
+    "pronunciation": "wallboard",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10436,
+    "name": "Record Wall Board",
+    "pronunciation": "recordwallboard",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10437,
+    "name": "Title Stand",
+    "pronunciation": "titlestand",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10438,
+    "name": "Title Board",
+    "pronunciation": "titleboard",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10439,
+    "name": "Wall Painting (S)",
+    "pronunciation": "wallpainting(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10440,
+    "name": "Wall Painting (M)",
+    "pronunciation": "wallpainting(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10441,
+    "name": "Wall Painting (L)",
+    "pronunciation": "wallpainting(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10442,
+    "name": "Tabletop Painting (S)",
+    "pronunciation": "tabletoppainting(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10443,
+    "name": "Tabletop Painting (M)",
+    "pronunciation": "tabletoppainting(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10444,
+    "name": "Tabletop Painting (L)",
+    "pronunciation": "tabletoppainting(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10445,
+    "name": "Photo Frame",
+    "pronunciation": "photoframe",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10446,
+    "name": "Moonlit Inn Wallpaper",
+    "pronunciation": "moonlitinnwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10447,
+    "name": "Moonlit Inn Tatami",
+    "pronunciation": "moonlitinntatami",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10448,
+    "name": "Moonlit Inn Window",
+    "pronunciation": "moonlitinnwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10449,
+    "name": "Moonlit Inn Antique Dresser",
+    "pronunciation": "moonlitinnantiquedresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10450,
+    "name": "Moonlit Inn Low Table",
+    "pronunciation": "moonlitinnlowtable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10451,
+    "name": "Moonlit Inn Floor Chair",
+    "pronunciation": "moonlitinnfloorchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10452,
+    "name": "Moonlit Inn Futon",
+    "pronunciation": "moonlitinnfuton",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10453,
+    "name": "Moonlit Inn Tea Cabinet",
+    "pronunciation": "moonlitinnteacabinet",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10454,
+    "name": "Moonlit Inn Paper Lantern",
+    "pronunciation": "moonlitinnpaperlantern",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10455,
+    "name": "Moonlit Inn Folding Screen",
+    "pronunciation": "moonlitinnfoldingscreen",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10456,
+    "name": "Moonlit Inn Wall Scroll",
+    "pronunciation": "moonlitinnwallscroll",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10457,
+    "name": "Moonlit Inn Bonsai Tree",
+    "pronunciation": "moonlitinnbonsaitree",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10458,
+    "name": "Moonlit Inn Vase",
+    "pronunciation": "moonlitinnvase",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10459,
+    "name": "Traveler's Campground Tent",
+    "pronunciation": "traveler'scampgroundtent",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10460,
+    "name": "Traveler's Campground Chair",
+    "pronunciation": "traveler'scampgroundchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10461,
+    "name": "Traveler's Campground Table",
+    "pronunciation": "traveler'scampgroundtable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10462,
+    "name": "Traveler's Campground Campfire Meal",
+    "pronunciation": "traveler'scampgroundcampfiremeal",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10463,
+    "name": "Traveler's Campground Firewood",
+    "pronunciation": "traveler'scampgroundfirewood",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10464,
+    "name": "Traveler's Campground Snowman",
+    "pronunciation": "traveler'scampgroundsnowman",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10465,
+    "name": "Traveler's Campground Backpack",
+    "pronunciation": "traveler'scampgroundbackpack",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10466,
+    "name": "Traveler's Campground Storage",
+    "pronunciation": "traveler'scampgroundstorage",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10467,
+    "name": "Traveler's Campground Lantern",
+    "pronunciation": "traveler'scampgroundlantern",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10468,
+    "name": "Traveler's Campground Kettle",
+    "pronunciation": "traveler'scampgroundkettle",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10469,
+    "name": "Cozy Picnic House",
+    "pronunciation": "cozypicnichouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10470,
+    "name": "Cozy Picnic Chair",
+    "pronunciation": "cozypicnicchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10471,
+    "name": "Cozy Picnic Tree",
+    "pronunciation": "cozypicnictree",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10472,
+    "name": "Moonlit Inn",
+    "pronunciation": "moonlitinn",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10473,
+    "name": "Astronomer's Observatory House",
+    "pronunciation": "astronomer'sobservatoryhouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10474,
+    "name": "Pink Tulip Bulbs",
+    "pronunciation": "pinktulipbulbs",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10475,
+    "name": "Orange Pansy Seeds",
+    "pronunciation": "orangepansyseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10476,
+    "name": "Blue Hydrangea Seeds",
+    "pronunciation": "bluehydrangeaseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10477,
+    "name": "Pink Lily of the Valley Seeds",
+    "pronunciation": "pinklilyofthevalleyseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10478,
+    "name": "Yellow Rose Seeds",
+    "pronunciation": "yellowroseseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10479,
+    "name": "Yellow Tulip Bulbs",
+    "pronunciation": "yellowtulipbulbs",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10480,
+    "name": "Purple Pansy Seeds",
+    "pronunciation": "purplepansyseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10481,
+    "name": "Pink Hydrangea Seeds",
+    "pronunciation": "pinkhydrangeaseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10482,
+    "name": "Blue Lily of the Valley Seeds",
+    "pronunciation": "bluelilyofthevalleyseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10483,
+    "name": "Blue Rose Seeds",
+    "pronunciation": "blueroseseeds",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10484,
+    "name": "Pink Tulips",
+    "pronunciation": "pinktulips",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10485,
+    "name": "Orange Pansies",
+    "pronunciation": "orangepansies",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10486,
+    "name": "Blue Hydrangeas",
+    "pronunciation": "bluehydrangeas",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10487,
+    "name": "Pink Lilies of the Valley",
+    "pronunciation": "pinkliliesofthevalley",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10488,
+    "name": "Yellow Roses",
+    "pronunciation": "yellowroses",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10489,
+    "name": "Yellow Tulips",
+    "pronunciation": "yellowtulips",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10490,
+    "name": "Purple Pansies",
+    "pronunciation": "purplepansies",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10491,
+    "name": "Pink Hydrangeas",
+    "pronunciation": "pinkhydrangeas",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10492,
+    "name": "Blue Lilies of the Valley",
+    "pronunciation": "blueliliesofthevalley",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10493,
+    "name": "Blue Roses",
+    "pronunciation": "blueroses",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10494,
+    "name": "Traveler's Campground Log Cabin",
+    "pronunciation": "traveler'scampgroundlogcabin",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10495,
+    "name": "Colorful Festival Ichika Plushie (S)",
+    "pronunciation": "colorfulfestivalichikaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10496,
+    "name": "Colorful Festival Ichika Plushie (M)",
+    "pronunciation": "colorfulfestivalichikaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10497,
+    "name": "Colorful Festival Ichika Plushie (L)",
+    "pronunciation": "colorfulfestivalichikaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10498,
+    "name": "Colorful Festival Minori Plushie (S)",
+    "pronunciation": "colorfulfestivalminoriplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10499,
+    "name": "Colorful Festival Minori Plushie (M)",
+    "pronunciation": "colorfulfestivalminoriplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10500,
+    "name": "Colorful Festival Minori Plushie (L)",
+    "pronunciation": "colorfulfestivalminoriplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10501,
+    "name": "Colorful Festival Kohane Plushie (S)",
+    "pronunciation": "colorfulfestivalkohaneplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10502,
+    "name": "Colorful Festival Kohane Plushie (M)",
+    "pronunciation": "colorfulfestivalkohaneplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10503,
+    "name": "Colorful Festival Kohane Plushie (L)",
+    "pronunciation": "colorfulfestivalkohaneplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10504,
+    "name": "Colorful Festival Tsukasa Plushie (S)",
+    "pronunciation": "colorfulfestivaltsukasaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10505,
+    "name": "Colorful Festival Tsukasa Plushie (M)",
+    "pronunciation": "colorfulfestivaltsukasaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10506,
+    "name": "Colorful Festival Tsukasa Plushie (L)",
+    "pronunciation": "colorfulfestivaltsukasaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10507,
+    "name": "Colorful Festival Kanade Plushie (S)",
+    "pronunciation": "colorfulfestivalkanadeplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10508,
+    "name": "Colorful Festival Kanade Plushie (M)",
+    "pronunciation": "colorfulfestivalkanadeplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10509,
+    "name": "Colorful Festival Kanade Plushie (L)",
+    "pronunciation": "colorfulfestivalkanadeplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10510,
+    "name": "Colorful Festival Miku Plushie (S)",
+    "pronunciation": "colorfulfestivalmikuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10511,
+    "name": "Colorful Festival Miku Plushie (M)",
+    "pronunciation": "colorfulfestivalmikuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10512,
+    "name": "Colorful Festival Miku Plushie (L)",
+    "pronunciation": "colorfulfestivalmikuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10513,
+    "name": "COLORFUL STAGE! ASTRO FES Model Set",
+    "pronunciation": "colorfulstage!astrofesmodelset",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10514,
+    "name": "ENSTARS ASTRO FES Model Set",
+    "pronunciation": "enstarsastrofesmodelset",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10515,
+    "name": "Raijin Festival Taiko",
+    "pronunciation": "raijinfestivaltaiko",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10516,
+    "name": "Raijin Festival Hanging Lanterns",
+    "pronunciation": "raijinfestivalhanginglanterns",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10517,
+    "name": "Raijin Festival Mask Stall",
+    "pronunciation": "raijinfestivalmaskstall",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10518,
+    "name": "Raijin Festival Cotton Candy Stall",
+    "pronunciation": "raijinfestivalcottoncandystall",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10519,
+    "name": "Raijin Festival Outdoor Lantern",
+    "pronunciation": "raijinfestivaloutdoorlantern",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10520,
+    "name": "Raijin Festival Pond",
+    "pronunciation": "raijinfestivalpond",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10521,
+    "name": "Raijin Festival Right-Facing Fox Statue",
+    "pronunciation": "raijinfestivalright-facingfoxstatue",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10522,
+    "name": "Raijin Festival House",
+    "pronunciation": "raijinfestivalhouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10523,
+    "name": "Raijin Festival Shrine Gate",
+    "pronunciation": "raijinfestivalshrinegate",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10524,
+    "name": "Raijin Festival Bench",
+    "pronunciation": "raijinfestivalbench",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10525,
+    "name": "Raijin Festival Left-Facing Fox Statue",
+    "pronunciation": "raijinfestivalleft-facingfoxstatue",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10526,
+    "name": "Retro Kitchen Wallpaper",
+    "pronunciation": "retrokitchenwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10527,
+    "name": "Retro Kitchen Flooring",
+    "pronunciation": "retrokitchenflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10528,
+    "name": "Kitchen Shelf",
+    "pronunciation": "kitchenshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10529,
+    "name": "Kitchen Wall Cabinet",
+    "pronunciation": "kitchenwallcabinet",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10530,
+    "name": "Vegetable Basket",
+    "pronunciation": "vegetablebasket",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10531,
+    "name": "Mossy Boulder",
+    "pronunciation": "mossyboulder",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10532,
+    "name": "Boulder",
+    "pronunciation": "boulder",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10533,
+    "name": "Rock",
+    "pronunciation": "rock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10534,
+    "name": "Grassy Boulder",
+    "pronunciation": "grassyboulder",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10535,
+    "name": "Grassy Rock",
+    "pronunciation": "grassyrock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10536,
+    "name": "Shrub",
+    "pronunciation": "shrub",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10537,
+    "name": "Flowering Shrub",
+    "pronunciation": "floweringshrub",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10538,
+    "name": "Color Tiles",
+    "pronunciation": "colortiles",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 10539,
+    "name": "Red Tile",
+    "pronunciation": "redtile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10540,
+    "name": "Orange Tile",
+    "pronunciation": "orangetile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10541,
+    "name": "Light Orange Tile",
+    "pronunciation": "lightorangetile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10542,
+    "name": "Yellow Tile",
+    "pronunciation": "yellowtile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10543,
+    "name": "Light Green Tile",
+    "pronunciation": "lightgreentile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10544,
+    "name": "Green Tile",
+    "pronunciation": "greentile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10545,
+    "name": "Blue-Green Tile",
+    "pronunciation": "blue-greentile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10546,
+    "name": "Light Blue Tile",
+    "pronunciation": "lightbluetile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10547,
+    "name": "Blue Tile",
+    "pronunciation": "bluetile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10548,
+    "name": "Violet Tile",
+    "pronunciation": "violettile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10549,
+    "name": "Purple Tile",
+    "pronunciation": "purpletile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10550,
+    "name": "Pink Tile",
+    "pronunciation": "pinktile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10551,
+    "name": "Cream Tile",
+    "pronunciation": "creamtile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10552,
+    "name": "Beige Tile",
+    "pronunciation": "beigetile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10553,
+    "name": "Light Brown Tile",
+    "pronunciation": "lightbrowntile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10554,
+    "name": "Brown Tile",
+    "pronunciation": "browntile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10555,
+    "name": "White Tile",
+    "pronunciation": "whitetile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10556,
+    "name": "Light Gray Tile",
+    "pronunciation": "lightgraytile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10557,
+    "name": "Gray Tile",
+    "pronunciation": "graytile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10558,
+    "name": "Black Tile",
+    "pronunciation": "blacktile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10559,
+    "name": "Colorful Festival Saki Plushie (S)",
+    "pronunciation": "colorfulfestivalsakiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10560,
+    "name": "Colorful Festival Saki Plushie (M)",
+    "pronunciation": "colorfulfestivalsakiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10561,
+    "name": "Colorful Festival Saki Plushie (L)",
+    "pronunciation": "colorfulfestivalsakiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10562,
+    "name": "Colorful Festival Airi Plushie (S)",
+    "pronunciation": "colorfulfestivalairiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10563,
+    "name": "Colorful Festival Airi Plushie (M)",
+    "pronunciation": "colorfulfestivalairiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10564,
+    "name": "Colorful Festival Airi Plushie (L)",
+    "pronunciation": "colorfulfestivalairiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10565,
+    "name": "Colorful Festival An Plushie (S)",
+    "pronunciation": "colorfulfestivalanplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10566,
+    "name": "Colorful Festival An Plushie (M)",
+    "pronunciation": "colorfulfestivalanplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10567,
+    "name": "Colorful Festival An Plushie (L)",
+    "pronunciation": "colorfulfestivalanplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10568,
+    "name": "Colorful Festival Emu Plushie (S)",
+    "pronunciation": "colorfulfestivalemuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10569,
+    "name": "Colorful Festival Emu Plushie (M)",
+    "pronunciation": "colorfulfestivalemuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10570,
+    "name": "Colorful Festival Emu Plushie (L)",
+    "pronunciation": "colorfulfestivalemuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10571,
+    "name": "Colorful Festival Mizuki Plushie (S)",
+    "pronunciation": "colorfulfestivalmizukiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10572,
+    "name": "Colorful Festival Mizuki Plushie (M)",
+    "pronunciation": "colorfulfestivalmizukiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10573,
+    "name": "Colorful Festival Mizuki Plushie (L)",
+    "pronunciation": "colorfulfestivalmizukiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10574,
+    "name": "Colorful Festival Rin Plushie (S)",
+    "pronunciation": "colorfulfestivalrinplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10575,
+    "name": "Colorful Festival Rin Plushie (M)",
+    "pronunciation": "colorfulfestivalrinplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10576,
+    "name": "Colorful Festival Rin Plushie (L)",
+    "pronunciation": "colorfulfestivalrinplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10577,
+    "name": "Colorful Festival MEIKO Plushie (S)",
+    "pronunciation": "colorfulfestivalmeikoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10578,
+    "name": "Colorful Festival MEIKO Plushie (M)",
+    "pronunciation": "colorfulfestivalmeikoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10579,
+    "name": "Colorful Festival MEIKO Plushie (L)",
+    "pronunciation": "colorfulfestivalmeikoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10580,
+    "name": "Soccer Ball",
+    "pronunciation": "soccerball",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10581,
+    "name": "Basketball",
+    "pronunciation": "basketball",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10582,
+    "name": "Tennis Racket Bag",
+    "pronunciation": "tennisracketbag",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10583,
+    "name": "Table Tennis Table",
+    "pronunciation": "tabletennistable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10584,
+    "name": "Badminton Rackets",
+    "pronunciation": "badmintonrackets",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10585,
+    "name": "Baseball Bat and Glove",
+    "pronunciation": "baseballbatandglove",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10586,
+    "name": "Sports",
+    "pronunciation": "sports",
+    "mysekaiFixtureTagType": "series"
+  },
+  {
+    "id": 10587,
+    "name": "Ground Light",
+    "pronunciation": "groundlight",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10588,
+    "name": "Garden Flower Bed (Poppy)",
+    "pronunciation": "gardenflowerbed(poppy)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10589,
+    "name": "Garden Flower Bed (Cosmos)",
+    "pronunciation": "gardenflowerbed(cosmos)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10590,
+    "name": "Garden Flower Bed (Lavender)",
+    "pronunciation": "gardenflowerbed(lavender)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10591,
+    "name": "Garden Lattice Planter (Poppy)",
+    "pronunciation": "gardenlatticeplanter(poppy)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10592,
+    "name": "Garden Lattice Planter (Cosmos)",
+    "pronunciation": "gardenlatticeplanter(cosmos)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10593,
+    "name": "Garden Lattice Planter (Lavender)",
+    "pronunciation": "gardenlatticeplanter(lavender)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10594,
+    "name": "Garden Wheelbarrow (Poppy)",
+    "pronunciation": "gardenwheelbarrow(poppy)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10595,
+    "name": "Garden Wheelbarrow (Cosmos)",
+    "pronunciation": "gardenwheelbarrow(cosmos)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10596,
+    "name": "Garden Wheelbarrow (Lavender)",
+    "pronunciation": "gardenwheelbarrow(lavender)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10597,
+    "name": "Clear Block (1x1)",
+    "pronunciation": "clearblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10598,
+    "name": "Red Block (1x1)",
+    "pronunciation": "redblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10599,
+    "name": "Orange Block (1x1)",
+    "pronunciation": "orangeblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10600,
+    "name": "Light Orange Block (1x1)",
+    "pronunciation": "lightorangeblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10601,
+    "name": "Yellow Block (1x1)",
+    "pronunciation": "yellowblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10602,
+    "name": "Light Green Block (1x1)",
+    "pronunciation": "lightgreenblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10603,
+    "name": "Green Block (1x1)",
+    "pronunciation": "greenblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10604,
+    "name": "Blue-Green Block (1x1)",
+    "pronunciation": "blue-greenblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10605,
+    "name": "Light Blue Block (1x1)",
+    "pronunciation": "lightblueblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10606,
+    "name": "Blue Block (1x1)",
+    "pronunciation": "blueblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10607,
+    "name": "Violet Block (1x1)",
+    "pronunciation": "violetblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10608,
+    "name": "Purple Block (1x1)",
+    "pronunciation": "purpleblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10609,
+    "name": "Pink Block (1x1)",
+    "pronunciation": "pinkblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10610,
+    "name": "Cream Block (1x1)",
+    "pronunciation": "creamblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10611,
+    "name": "Beige Block (1x1)",
+    "pronunciation": "beigeblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10612,
+    "name": "Light Brown Block (1x1)",
+    "pronunciation": "lightbrownblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10613,
+    "name": "Brown Block (1x1)",
+    "pronunciation": "brownblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10614,
+    "name": "White Block (1x1)",
+    "pronunciation": "whiteblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10615,
+    "name": "Light Gray Block (1x1)",
+    "pronunciation": "lightgrayblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10616,
+    "name": "Gray Block (1x1)",
+    "pronunciation": "grayblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10617,
+    "name": "Black Block (1x1)",
+    "pronunciation": "blackblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10618,
+    "name": "Clear Block (2x2)",
+    "pronunciation": "clearblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10619,
+    "name": "Red Block (2x2)",
+    "pronunciation": "redblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10620,
+    "name": "Orange Block (2x2)",
+    "pronunciation": "orangeblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10621,
+    "name": "Light Orange Block (2x2)",
+    "pronunciation": "lightorangeblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10622,
+    "name": "Yellow Block (2x2)",
+    "pronunciation": "yellowblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10623,
+    "name": "Light Green Block (2x2)",
+    "pronunciation": "lightgreenblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10624,
+    "name": "Green Block (2x2)",
+    "pronunciation": "greenblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10625,
+    "name": "Blue-Green Block (2x2)",
+    "pronunciation": "blue-greenblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10626,
+    "name": "Light Blue Block (2x2)",
+    "pronunciation": "lightblueblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10627,
+    "name": "Blue Block (2x2)",
+    "pronunciation": "blueblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10628,
+    "name": "Violet Block (2x2)",
+    "pronunciation": "violetblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10629,
+    "name": "Purple Block (2x2)",
+    "pronunciation": "purpleblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10630,
+    "name": "Pink Block (2x2)",
+    "pronunciation": "pinkblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10631,
+    "name": "Cream Block (2x2)",
+    "pronunciation": "creamblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10632,
+    "name": "Beige Block (2x2)",
+    "pronunciation": "beigeblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10633,
+    "name": "Light Brown Block (2x2)",
+    "pronunciation": "lightbrownblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10634,
+    "name": "Brown Block (2x2)",
+    "pronunciation": "brownblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10635,
+    "name": "White Block (2x2)",
+    "pronunciation": "whiteblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10636,
+    "name": "Light Gray Block (2x2)",
+    "pronunciation": "lightgrayblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10637,
+    "name": "Gray Block (2x2)",
+    "pronunciation": "grayblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10638,
+    "name": "Black Block (2x2)",
+    "pronunciation": "blackblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10639,
+    "name": "Colorful Festival Shiho Plushie (S)",
+    "pronunciation": "colorfulfestivalshihoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10640,
+    "name": "Colorful Festival Shiho Plushie (M)",
+    "pronunciation": "colorfulfestivalshihoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10641,
+    "name": "Colorful Festival Shiho Plushie (L)",
+    "pronunciation": "colorfulfestivalshihoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10642,
+    "name": "Colorful Festival Haruka Plushie (S)",
+    "pronunciation": "colorfulfestivalharukaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10643,
+    "name": "Colorful Festival Haruka Plushie (M)",
+    "pronunciation": "colorfulfestivalharukaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10644,
+    "name": "Colorful Festival Haruka Plushie (L)",
+    "pronunciation": "colorfulfestivalharukaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10645,
+    "name": "Colorful Festival Toya Plushie (S)",
+    "pronunciation": "colorfulfestivaltoyaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10646,
+    "name": "Colorful Festival Toya Plushie (M)",
+    "pronunciation": "colorfulfestivaltoyaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10647,
+    "name": "Colorful Festival Toya Plushie (L)",
+    "pronunciation": "colorfulfestivaltoyaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10648,
+    "name": "Colorful Festival Rui Plushie (S)",
+    "pronunciation": "colorfulfestivalruiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10649,
+    "name": "Colorful Festival Rui Plushie (M)",
+    "pronunciation": "colorfulfestivalruiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10650,
+    "name": "Colorful Festival Rui Plushie (L)",
+    "pronunciation": "colorfulfestivalruiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10651,
+    "name": "Colorful Festival Ena Plushie (S)",
+    "pronunciation": "colorfulfestivalenaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10652,
+    "name": "Colorful Festival Ena Plushie (M)",
+    "pronunciation": "colorfulfestivalenaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10653,
+    "name": "Colorful Festival Ena Plushie (L)",
+    "pronunciation": "colorfulfestivalenaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10654,
+    "name": "Colorful Festival Luka Plushie (S)",
+    "pronunciation": "colorfulfestivallukaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10655,
+    "name": "Colorful Festival Luka Plushie (M)",
+    "pronunciation": "colorfulfestivallukaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10656,
+    "name": "Colorful Festival Luka Plushie (L)",
+    "pronunciation": "colorfulfestivallukaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10657,
+    "name": "Colorful Atelier House",
+    "pronunciation": "colorfulatelierhouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10658,
+    "name": "Colorful Atelier Wallpaper",
+    "pronunciation": "colorfulatelierwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10659,
+    "name": "Colorful Atelier Flooring",
+    "pronunciation": "colorfulatelierflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10660,
+    "name": "Colorful Atelier Window",
+    "pronunciation": "colorfulatelierwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10661,
+    "name": "Colorful Atelier Dresser",
+    "pronunciation": "colorfulatelierdresser",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10662,
+    "name": "Colorful Atelier Stool",
+    "pronunciation": "colorfulatelierstool",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10663,
+    "name": "Colorful Atelier Easel",
+    "pronunciation": "colorfulateliereasel",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10664,
+    "name": "Colorful Atelier Desk",
+    "pronunciation": "colorfulatelierdesk",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10665,
+    "name": "Colorful Atelier Artwork",
+    "pronunciation": "colorfulatelierartwork",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10666,
+    "name": "Colorful Atelier Picture Garland",
+    "pronunciation": "colorfulatelierpicturegarland",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10667,
+    "name": "Colorful Atelier Shelf",
+    "pronunciation": "colorfulateliershelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10668,
+    "name": "Colorful Atelier Palette",
+    "pronunciation": "colorfulatelierpalette",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10669,
+    "name": "Colorful Festival Honami Plushie (S)",
+    "pronunciation": "colorfulfestivalhonamiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10670,
+    "name": "Colorful Festival Honami Plushie (M)",
+    "pronunciation": "colorfulfestivalhonamiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10671,
+    "name": "Colorful Festival Honami Plushie (L)",
+    "pronunciation": "colorfulfestivalhonamiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10672,
+    "name": "Colorful Festival Shizuku Plushie (S)",
+    "pronunciation": "colorfulfestivalshizukuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10673,
+    "name": "Colorful Festival Shizuku Plushie (M)",
+    "pronunciation": "colorfulfestivalshizukuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10674,
+    "name": "Colorful Festival Shizuku Plushie (L)",
+    "pronunciation": "colorfulfestivalshizukuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10675,
+    "name": "Colorful Festival Akito Plushie (S)",
+    "pronunciation": "colorfulfestivalakitoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10676,
+    "name": "Colorful Festival Akito Plushie (M)",
+    "pronunciation": "colorfulfestivalakitoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10677,
+    "name": "Colorful Festival Akito Plushie (L)",
+    "pronunciation": "colorfulfestivalakitoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10678,
+    "name": "Colorful Festival Nene Plushie (S)",
+    "pronunciation": "colorfulfestivalneneplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10679,
+    "name": "Colorful Festival Nene Plushie (M)",
+    "pronunciation": "colorfulfestivalneneplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10680,
+    "name": "Colorful Festival Nene Plushie (L)",
+    "pronunciation": "colorfulfestivalneneplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10681,
+    "name": "Colorful Festival Mafuyu Plushie (S)",
+    "pronunciation": "colorfulfestivalmafuyuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10682,
+    "name": "Colorful Festival Mafuyu Plushie (M)",
+    "pronunciation": "colorfulfestivalmafuyuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10683,
+    "name": "Colorful Festival Mafuyu Plushie (L)",
+    "pronunciation": "colorfulfestivalmafuyuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10684,
+    "name": "Colorful Festival Len Plushie (S)",
+    "pronunciation": "colorfulfestivallenplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10685,
+    "name": "Colorful Festival Len Plushie (M)",
+    "pronunciation": "colorfulfestivallenplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10686,
+    "name": "Colorful Festival Len Plushie (L)",
+    "pronunciation": "colorfulfestivallenplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10687,
+    "name": "Colorful Festival KAITO Plushie (S)",
+    "pronunciation": "colorfulfestivalkaitoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10688,
+    "name": "Colorful Festival KAITO Plushie (M)",
+    "pronunciation": "colorfulfestivalkaitoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10689,
+    "name": "Colorful Festival KAITO Plushie (L)",
+    "pronunciation": "colorfulfestivalkaitoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10690,
+    "name": "Resort Deck Chair",
+    "pronunciation": "resortdeckchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10691,
+    "name": "Resort Inner Tubes",
+    "pronunciation": "resortinnertubes",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10692,
+    "name": "Resort Lamp",
+    "pronunciation": "resortlamp",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10693,
+    "name": "Resort Parasol",
+    "pronunciation": "resortparasol",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10694,
+    "name": "Resort Rug",
+    "pronunciation": "resortrug",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10695,
+    "name": "Resort Pool",
+    "pronunciation": "resortpool",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10696,
+    "name": "Resort Hot Tub",
+    "pronunciation": "resorthottub",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10697,
+    "name": "Resort Sofa",
+    "pronunciation": "resortsofa",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10698,
+    "name": "Resort Hammock",
+    "pronunciation": "resorthammock",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10699,
+    "name": "Alexandra Palm",
+    "pronunciation": "alexandrapalm",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10700,
+    "name": "Resort Room Divider",
+    "pronunciation": "resortroomdivider",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10701,
+    "name": "Resort Coffee Table",
+    "pronunciation": "resortcoffeetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10702,
+    "name": "Resort End Table",
+    "pronunciation": "resortendtable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10703,
+    "name": "Log Fence",
+    "pronunciation": "logfence",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10704,
+    "name": "Vermillion Wooden Fence",
+    "pronunciation": "vermillionwoodenfence",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10705,
+    "name": "Bamboo Fence",
+    "pronunciation": "bamboofence",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10706,
+    "name": "Limited Style #1 Miku Plushie (S)",
+    "pronunciation": "limitedstyle#1mikuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10707,
+    "name": "Limited Style #1 Miku Plushie (M)",
+    "pronunciation": "limitedstyle#1mikuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10708,
+    "name": "Limited Style #1 Miku Plushie (L)",
+    "pronunciation": "limitedstyle#1mikuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10709,
+    "name": "Limited Style #1 Saki Plushie (S)",
+    "pronunciation": "limitedstyle#1sakiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10710,
+    "name": "Limited Style #1 Saki Plushie (M)",
+    "pronunciation": "limitedstyle#1sakiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10711,
+    "name": "Limited Style #1 Saki Plushie (L)",
+    "pronunciation": "limitedstyle#1sakiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10712,
+    "name": "Limited Style #1 Haruka Plushie (S)",
+    "pronunciation": "limitedstyle#1harukaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10713,
+    "name": "Limited Style #1 Haruka Plushie (M)",
+    "pronunciation": "limitedstyle#1harukaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10714,
+    "name": "Limited Style #1 Haruka Plushie (L)",
+    "pronunciation": "limitedstyle#1harukaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10715,
+    "name": "Limited Style #1 An Plushie (S)",
+    "pronunciation": "limitedstyle#1anplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10716,
+    "name": "Limited Style #1 An Plushie (M)",
+    "pronunciation": "limitedstyle#1anplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10717,
+    "name": "Limited Style #1 An Plushie (L)",
+    "pronunciation": "limitedstyle#1anplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10718,
+    "name": "Limited Style #1 Tsukasa Plushie (S)",
+    "pronunciation": "limitedstyle#1tsukasaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10719,
+    "name": "Limited Style #1 Tsukasa Plushie (M)",
+    "pronunciation": "limitedstyle#1tsukasaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10720,
+    "name": "Limited Style #1 Tsukasa Plushie (L)",
+    "pronunciation": "limitedstyle#1tsukasaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10721,
+    "name": "Limited Style #1 Mizuki Plushie (S)",
+    "pronunciation": "limitedstyle#1mizukiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10722,
+    "name": "Limited Style #1 Mizuki Plushie (M)",
+    "pronunciation": "limitedstyle#1mizukiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10723,
+    "name": "Limited Style #1 Mizuki Plushie (L)",
+    "pronunciation": "limitedstyle#1mizukiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10724,
+    "name": "Garage Wallpaper",
+    "pronunciation": "garagewallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10725,
+    "name": "Garage Flooring",
+    "pronunciation": "garageflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10726,
+    "name": "Garage Tool Rack",
+    "pronunciation": "garagetoolrack",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10727,
+    "name": "Garage Work Table",
+    "pronunciation": "garageworktable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10728,
+    "name": "Garage Car",
+    "pronunciation": "garagecar",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10729,
+    "name": "Garage Motorbike",
+    "pronunciation": "garagemotorbike",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10730,
+    "name": "Garage Bicycle",
+    "pronunciation": "garagebicycle",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10731,
+    "name": "Garage Tool Board",
+    "pronunciation": "garagetoolboard",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10732,
+    "name": "Garage Ventilation Fan",
+    "pronunciation": "garageventilationfan",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10733,
+    "name": "Garage Paint Cans",
+    "pronunciation": "garagepaintcans",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10734,
+    "name": "Garage Shutter",
+    "pronunciation": "garageshutter",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10735,
+    "name": "Brick Block (1x1)",
+    "pronunciation": "brickblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10736,
+    "name": "Brick Block (2x2)",
+    "pronunciation": "brickblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10737,
+    "name": "Wooden Block (1x1)",
+    "pronunciation": "woodenblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10738,
+    "name": "Wooden Block (2x2)",
+    "pronunciation": "woodenblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10739,
+    "name": "Concrete Block (1x1)",
+    "pronunciation": "concreteblock(1x1)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10740,
+    "name": "Concrete Block (2x2)",
+    "pronunciation": "concreteblock(2x2)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10741,
+    "name": "Concrete Path",
+    "pronunciation": "concretepath",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10742,
+    "name": "Gravel Path",
+    "pronunciation": "gravelpath",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10743,
+    "name": "Sand Path",
+    "pronunciation": "sandpath",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10744,
+    "name": "Dreamy Baby Room House",
+    "pronunciation": "dreamybabyroomhouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10745,
+    "name": "Dreamy Baby Room Wallpaper",
+    "pronunciation": "dreamybabyroomwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10746,
+    "name": "Dreamy Baby Room Flooring",
+    "pronunciation": "dreamybabyroomflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10747,
+    "name": "Dreamy Baby Room Window",
+    "pronunciation": "dreamybabyroomwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10748,
+    "name": "Dreamy Baby Room Bed",
+    "pronunciation": "dreamybabyroombed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10749,
+    "name": "Dreamy Baby Room Picture Bookshelf",
+    "pronunciation": "dreamybabyroompicturebookshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10750,
+    "name": "Dreamy Baby Room Rocking Animal",
+    "pronunciation": "dreamybabyroomrockinganimal",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10751,
+    "name": "Dreamy Baby Room Cushion",
+    "pronunciation": "dreamybabyroomcushion",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10752,
+    "name": "Dreamy Baby Room Mobile",
+    "pronunciation": "dreamybabyroommobile",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10753,
+    "name": "Dreamy Baby Room Rug",
+    "pronunciation": "dreamybabyroomrug",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10754,
+    "name": "Cyber City Amphibious Hovercar",
+    "pronunciation": "cybercityamphibioushovercar",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10755,
+    "name": "Cyber City Arch",
+    "pronunciation": "cybercityarch",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10756,
+    "name": "Cyber City Neon Light",
+    "pronunciation": "cybercityneonlight",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10757,
+    "name": "Cyber City Pile of Tech",
+    "pronunciation": "cybercitypileoftech",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10758,
+    "name": "Cyber City Signpost",
+    "pronunciation": "cybercitysignpost",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10759,
+    "name": "Happy Blue Whale Wallpaper",
+    "pronunciation": "happybluewhalewallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10760,
+    "name": "Happy Blue Whale Flooring",
+    "pronunciation": "happybluewhaleflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10761,
+    "name": "Happy Blue Whale Plushie",
+    "pronunciation": "happybluewhaleplushie",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10762,
+    "name": "Happy Blue Whale Fishy Armchair",
+    "pronunciation": "happybluewhalefishyarmchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10763,
+    "name": "Happy Blue Whale Coral",
+    "pronunciation": "happybluewhalecoral",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10764,
+    "name": "Limited Style #1 Ichika Plushie (S)",
+    "pronunciation": "limitedstyle#1ichikaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10765,
+    "name": "Limited Style #1 Ichika Plushie (M)",
+    "pronunciation": "limitedstyle#1ichikaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10766,
+    "name": "Limited Style #1 Ichika Plushie (L)",
+    "pronunciation": "limitedstyle#1ichikaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10767,
+    "name": "Limited Style #1 Airi Plushie (S)",
+    "pronunciation": "limitedstyle#1airiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10768,
+    "name": "Limited Style #1 Airi Plushie (M)",
+    "pronunciation": "limitedstyle#1airiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10769,
+    "name": "Limited Style #1 Airi Plushie (L)",
+    "pronunciation": "limitedstyle#1airiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10770,
+    "name": "Limited Style #1 Kohane Plushie (S)",
+    "pronunciation": "limitedstyle#1kohaneplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10771,
+    "name": "Limited Style #1 Kohane Plushie (M)",
+    "pronunciation": "limitedstyle#1kohaneplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10772,
+    "name": "Limited Style #1 Kohane Plushie (L)",
+    "pronunciation": "limitedstyle#1kohaneplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10773,
+    "name": "Limited Style #1 Rui Plushie (S)",
+    "pronunciation": "limitedstyle#1ruiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10774,
+    "name": "Limited Style #1 Rui Plushie (M)",
+    "pronunciation": "limitedstyle#1ruiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10775,
+    "name": "Limited Style #1 Rui Plushie (L)",
+    "pronunciation": "limitedstyle#1ruiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10776,
+    "name": "Limited Style #1 Kanade Plushie (S)",
+    "pronunciation": "limitedstyle#1kanadeplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10777,
+    "name": "Limited Style #1 Kanade Plushie (M)",
+    "pronunciation": "limitedstyle#1kanadeplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10778,
+    "name": "Limited Style #1 Kanade Plushie (L)",
+    "pronunciation": "limitedstyle#1kanadeplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10779,
+    "name": "Limited Style #1 Rin Plushie (S)",
+    "pronunciation": "limitedstyle#1rinplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10780,
+    "name": "Limited Style #1 Rin Plushie (M)",
+    "pronunciation": "limitedstyle#1rinplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10781,
+    "name": "Limited Style #1 Rin Plushie (L)",
+    "pronunciation": "limitedstyle#1rinplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10782,
+    "name": "Limited Style #1 MEIKO Plushie (S)",
+    "pronunciation": "limitedstyle#1meikoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10783,
+    "name": "Limited Style #1 MEIKO Plushie (M)",
+    "pronunciation": "limitedstyle#1meikoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10784,
+    "name": "Limited Style #1 MEIKO Plushie (L)",
+    "pronunciation": "limitedstyle#1meikoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10785,
+    "name": "Limited Style #1 Shiho Plushie (S)",
+    "pronunciation": "limitedstyle#1shihoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10786,
+    "name": "Limited Style #1 Shiho Plushie (M)",
+    "pronunciation": "limitedstyle#1shihoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10787,
+    "name": "Limited Style #1 Shiho Plushie (L)",
+    "pronunciation": "limitedstyle#1shihoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10788,
+    "name": "Limited Style #1 Minori Plushie (S)",
+    "pronunciation": "limitedstyle#1minoriplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10789,
+    "name": "Limited Style #1 Minori Plushie (M)",
+    "pronunciation": "limitedstyle#1minoriplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10790,
+    "name": "Limited Style #1 Minori Plushie (L)",
+    "pronunciation": "limitedstyle#1minoriplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10791,
+    "name": "Limited Style #1 Akito Plushie (S)",
+    "pronunciation": "limitedstyle#1akitoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10792,
+    "name": "Limited Style #1 Akito Plushie (M)",
+    "pronunciation": "limitedstyle#1akitoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10793,
+    "name": "Limited Style #1 Akito Plushie (L)",
+    "pronunciation": "limitedstyle#1akitoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10794,
+    "name": "Limited Style #1 Emu Plushie (S)",
+    "pronunciation": "limitedstyle#1emuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10795,
+    "name": "Limited Style #1 Emu Plushie (M)",
+    "pronunciation": "limitedstyle#1emuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10796,
+    "name": "Limited Style #1 Emu Plushie (L)",
+    "pronunciation": "limitedstyle#1emuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10797,
+    "name": "Limited Style #1 Mafuyu Plushie (S)",
+    "pronunciation": "limitedstyle#1mafuyuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10798,
+    "name": "Limited Style #1 Mafuyu Plushie (M)",
+    "pronunciation": "limitedstyle#1mafuyuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10799,
+    "name": "Limited Style #1 Mafuyu Plushie (L)",
+    "pronunciation": "limitedstyle#1mafuyuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10800,
+    "name": "Limited Style #1 Len Plushie (S)",
+    "pronunciation": "limitedstyle#1lenplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10801,
+    "name": "Limited Style #1 Len Plushie (M)",
+    "pronunciation": "limitedstyle#1lenplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10802,
+    "name": "Limited Style #1 Len Plushie (L)",
+    "pronunciation": "limitedstyle#1lenplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10803,
+    "name": "Morgana Figure",
+    "pronunciation": "morganafigure",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10804,
+    "name": "Weeping Fig",
+    "pronunciation": "weepingfig",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10805,
+    "name": "Lemon Cypress",
+    "pronunciation": "lemoncypress",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10806,
+    "name": "Begonia",
+    "pronunciation": "begonia",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10807,
+    "name": "Smiley Taiyaki Vendor Food Truck",
+    "pronunciation": "smileytaiyakivendorfoodtruck",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10808,
+    "name": "Smiley Taiyaki Vendor Menu",
+    "pronunciation": "smileytaiyakivendormenu",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10809,
+    "name": "Smiley Taiyaki Vendor Garbage Can",
+    "pronunciation": "smileytaiyakivendorgarbagecan",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10810,
+    "name": "Smiley Taiyaki Vendor Garland",
+    "pronunciation": "smileytaiyakivendorgarland",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10811,
+    "name": "Smiley Taiyaki Vendor Taiyaki",
+    "pronunciation": "smileytaiyakivendortaiyaki",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10812,
+    "name": "Fluffy Friend Wallpaper",
+    "pronunciation": "fluffyfriendwallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10813,
+    "name": "Fluffy Friend Flooring",
+    "pronunciation": "fluffyfriendflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10814,
+    "name": "Fluffy Friend Wall Shelf",
+    "pronunciation": "fluffyfriendwallshelf",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10815,
+    "name": "Fluffy Friend Bed",
+    "pronunciation": "fluffyfriendbed",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10816,
+    "name": "Fluffy Friend Armchair",
+    "pronunciation": "fluffyfriendarmchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10817,
+    "name": "Pristine Powder Room Window",
+    "pronunciation": "pristinepowderroomwindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10818,
+    "name": "Limited Style #1 Honami Plushie (S)",
+    "pronunciation": "limitedstyle#1honamiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10819,
+    "name": "Limited Style #1 Honami Plushie (M)",
+    "pronunciation": "limitedstyle#1honamiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10820,
+    "name": "Limited Style #1 Honami Plushie (L)",
+    "pronunciation": "limitedstyle#1honamiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10821,
+    "name": "Limited Style #1 Shizuku Plushie (S)",
+    "pronunciation": "limitedstyle#1shizukuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10822,
+    "name": "Limited Style #1 Shizuku Plushie (M)",
+    "pronunciation": "limitedstyle#1shizukuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10823,
+    "name": "Limited Style #1 Shizuku Plushie (L)",
+    "pronunciation": "limitedstyle#1shizukuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10824,
+    "name": "Limited Style #1 Toya Plushie (S)",
+    "pronunciation": "limitedstyle#1toyaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10825,
+    "name": "Limited Style #1 Toya Plushie (M)",
+    "pronunciation": "limitedstyle#1toyaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10826,
+    "name": "Limited Style #1 Toya Plushie (L)",
+    "pronunciation": "limitedstyle#1toyaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10827,
+    "name": "Limited Style #1 Nene Plushie (S)",
+    "pronunciation": "limitedstyle#1neneplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10828,
+    "name": "Limited Style #1 Nene Plushie (M)",
+    "pronunciation": "limitedstyle#1neneplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10829,
+    "name": "Limited Style #1 Nene Plushie (L)",
+    "pronunciation": "limitedstyle#1neneplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10830,
+    "name": "Limited Style #1 Ena Plushie (S)",
+    "pronunciation": "limitedstyle#1enaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10831,
+    "name": "Limited Style #1 Ena Plushie (M)",
+    "pronunciation": "limitedstyle#1enaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10832,
+    "name": "Limited Style #1 Ena Plushie (L)",
+    "pronunciation": "limitedstyle#1enaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10833,
+    "name": "Limited Style #1 Luka Plushie (S)",
+    "pronunciation": "limitedstyle#1lukaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10834,
+    "name": "Limited Style #1 Luka Plushie (M)",
+    "pronunciation": "limitedstyle#1lukaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10835,
+    "name": "Limited Style #1 Luka Plushie (L)",
+    "pronunciation": "limitedstyle#1lukaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10836,
+    "name": "Limited Style #1 KAITO Plushie (S)",
+    "pronunciation": "limitedstyle#1kaitoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10837,
+    "name": "Limited Style #1 KAITO Plushie (M)",
+    "pronunciation": "limitedstyle#1kaitoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10838,
+    "name": "Limited Style #1 KAITO Plushie (L)",
+    "pronunciation": "limitedstyle#1kaitoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10839,
+    "name": "Mametchi",
+    "pronunciation": "mametchi",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10840,
+    "name": "Mimitchi",
+    "pronunciation": "mimitchi",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10841,
+    "name": "Memetchi",
+    "pronunciation": "memetchi",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10842,
+    "name": "Kuchipatchi",
+    "pronunciation": "kuchipatchi",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10843,
+    "name": "Tama Fountain",
+    "pronunciation": "tamafountain",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10844,
+    "name": "Tama Planter",
+    "pronunciation": "tamaplanter",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10845,
+    "name": "Tamagotchi Planet Decoration",
+    "pronunciation": "tamagotchiplanetdecoration",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10846,
+    "name": "Rustic Japanese Floor Cushion",
+    "pronunciation": "rusticjapanesefloorcushion",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10847,
+    "name": "Radio",
+    "pronunciation": "radio",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10848,
+    "name": "CD Player",
+    "pronunciation": "cdplayer",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10849,
+    "name": "Mini Stereo",
+    "pronunciation": "ministereo",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10850,
+    "name": "Radio Cassette Player",
+    "pronunciation": "radiocassetteplayer",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10851,
+    "name": "SEKAI Stage House",
+    "pronunciation": "sekaistagehouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10852,
+    "name": "SEKAI Stage Wallpaper",
+    "pronunciation": "sekaistagewallpaper",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10853,
+    "name": "SEKAI Stage Flooring",
+    "pronunciation": "sekaistageflooring",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10854,
+    "name": "SEKAI Stage Window",
+    "pronunciation": "sekaistagewindow",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10855,
+    "name": "SEKAI Stage Dance Floor",
+    "pronunciation": "sekaistagedancefloor",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10856,
+    "name": "SEKAI Stage Mic Stand",
+    "pronunciation": "sekaistagemicstand",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10857,
+    "name": "SEKAI Stage Table",
+    "pronunciation": "sekaistagetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10858,
+    "name": "SEKAI Stage Sofa",
+    "pronunciation": "sekaistagesofa",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10859,
+    "name": "SEKAI Stage Tall Table",
+    "pronunciation": "sekaistagetalltable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10860,
+    "name": "SEKAI Stage Counter Chair",
+    "pronunciation": "sekaistagecounterchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10861,
+    "name": "SEKAI Stage Speaker",
+    "pronunciation": "sekaistagespeaker",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10862,
+    "name": "SEKAI Stage Stage Light",
+    "pronunciation": "sekaistagestagelight",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10863,
+    "name": "SEKAI Stage DJ Booth",
+    "pronunciation": "sekaistagedjbooth",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10864,
+    "name": "JP 5th Anniversary Memorial Plaque",
+    "pronunciation": "jp5thanniversarymemorialplaque",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10865,
+    "name": "Limited Style #2 Ichika Plushie (S)",
+    "pronunciation": "limitedstyle#2ichikaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10866,
+    "name": "Limited Style #2 Ichika Plushie (M)",
+    "pronunciation": "limitedstyle#2ichikaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10867,
+    "name": "Limited Style #2 Ichika Plushie (L)",
+    "pronunciation": "limitedstyle#2ichikaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10868,
+    "name": "Limited Style #2 Airi Plushie (S)",
+    "pronunciation": "limitedstyle#2airiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10869,
+    "name": "Limited Style #2 Airi Plushie (M)",
+    "pronunciation": "limitedstyle#2airiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10870,
+    "name": "Limited Style #2 Airi Plushie (L)",
+    "pronunciation": "limitedstyle#2airiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10871,
+    "name": "Limited Style #2 Kohane Plushie (S)",
+    "pronunciation": "limitedstyle#2kohaneplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10872,
+    "name": "Limited Style #2 Kohane Plushie (M)",
+    "pronunciation": "limitedstyle#2kohaneplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10873,
+    "name": "Limited Style #2 Kohane Plushie (L)",
+    "pronunciation": "limitedstyle#2kohaneplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10874,
+    "name": "Limited Style #2 Rui Plushie (S)",
+    "pronunciation": "limitedstyle#2ruiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10875,
+    "name": "Limited Style #2 Rui Plushie (M)",
+    "pronunciation": "limitedstyle#2ruiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10876,
+    "name": "Limited Style #2 Rui Plushie (L)",
+    "pronunciation": "limitedstyle#2ruiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10877,
+    "name": "Limited Style #2 Mizuki Plushie (S)",
+    "pronunciation": "limitedstyle#2mizukiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10878,
+    "name": "Limited Style #2 Mizuki Plushie (M)",
+    "pronunciation": "limitedstyle#2mizukiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10879,
+    "name": "Limited Style #2 Mizuki Plushie (L)",
+    "pronunciation": "limitedstyle#2mizukiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10880,
+    "name": "Limited Style #2 MEIKO Plushie (S)",
+    "pronunciation": "limitedstyle#2meikoplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10881,
+    "name": "Limited Style #2 MEIKO Plushie (M)",
+    "pronunciation": "limitedstyle#2meikoplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10882,
+    "name": "Limited Style #2 MEIKO Plushie (L)",
+    "pronunciation": "limitedstyle#2meikoplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10883,
+    "name": "Haruka's Birthday Cake",
+    "pronunciation": "haruka'sbirthdaycake",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10884,
+    "name": "Haruka's Birthday Garland",
+    "pronunciation": "haruka'sbirthdaygarland",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10885,
+    "name": "Haruka's Birthday Balloons",
+    "pronunciation": "haruka'sbirthdayballoons",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10886,
+    "name": "Haruka's Birthday Bouquet",
+    "pronunciation": "haruka'sbirthdaybouquet",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10887,
+    "name": "Haruka's Birthday Chair",
+    "pronunciation": "haruka'sbirthdaychair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10888,
+    "name": "Haruka Kiritani BD '26",
+    "pronunciation": "harukakiritanibd'26",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10889,
+    "name": "Halloween Pumpkin",
+    "pronunciation": "halloweenpumpkin",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10890,
+    "name": "Halloween Pumpkin Ensemble",
+    "pronunciation": "halloweenpumpkinensemble",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10891,
+    "name": "Halloween Withered Tree",
+    "pronunciation": "halloweenwitheredtree",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10892,
+    "name": "Halloween Candy",
+    "pronunciation": "halloweencandy",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10893,
+    "name": "Halloween Ghost",
+    "pronunciation": "halloweenghost",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10894,
+    "name": "Romantic Garden House",
+    "pronunciation": "romanticgardenhouse",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10895,
+    "name": "Romantic Garden Carriage",
+    "pronunciation": "romanticgardencarriage",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10896,
+    "name": "Romantic Garden Gazebo",
+    "pronunciation": "romanticgardengazebo",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10897,
+    "name": "Romantic Garden Sculpture (Right)",
+    "pronunciation": "romanticgardensculpture(right)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10898,
+    "name": "Romantic Garden Sculpture (Left)",
+    "pronunciation": "romanticgardensculpture(left)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10899,
+    "name": "Romantic Garden Potted Plants",
+    "pronunciation": "romanticgardenpottedplants",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10900,
+    "name": "Romantic Garden Street Lamps",
+    "pronunciation": "romanticgardenstreetlamps",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10901,
+    "name": "Romantic Garden Pond",
+    "pronunciation": "romanticgardenpond",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10902,
+    "name": "Romantic Garden Table",
+    "pronunciation": "romanticgardentable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10903,
+    "name": "Romantic Garden Chair",
+    "pronunciation": "romanticgardenchair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10904,
+    "name": "Romantic Garden Archway",
+    "pronunciation": "romanticgardenarchway",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10905,
+    "name": "Romantic Garden Tea",
+    "pronunciation": "romanticgardentea",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10906,
+    "name": "Romantic Garden Cypress",
+    "pronunciation": "romanticgardencypress",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10911,
+    "name": "Limited Style #2 Saki Plushie (S)",
+    "pronunciation": "limitedstyle#2sakiplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10912,
+    "name": "Limited Style #2 Saki Plushie (M)",
+    "pronunciation": "limitedstyle#2sakiplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10913,
+    "name": "Limited Style #2 Saki Plushie (L)",
+    "pronunciation": "limitedstyle#2sakiplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10914,
+    "name": "Limited Style #2 Haruka Plushie (S)",
+    "pronunciation": "limitedstyle#2harukaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10915,
+    "name": "Limited Style #2 Haruka Plushie (M)",
+    "pronunciation": "limitedstyle#2harukaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10916,
+    "name": "Limited Style #2 Haruka Plushie (L)",
+    "pronunciation": "limitedstyle#2harukaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10917,
+    "name": "Limited Style #2 An Plushie (S)",
+    "pronunciation": "limitedstyle#2anplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10918,
+    "name": "Limited Style #2 An Plushie (M)",
+    "pronunciation": "limitedstyle#2anplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10919,
+    "name": "Limited Style #2 An Plushie (L)",
+    "pronunciation": "limitedstyle#2anplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10920,
+    "name": "Limited Style #2 Tsukasa Plushie (S)",
+    "pronunciation": "limitedstyle#2tsukasaplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10921,
+    "name": "Limited Style #2 Tsukasa Plushie (M)",
+    "pronunciation": "limitedstyle#2tsukasaplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10922,
+    "name": "Limited Style #2 Tsukasa Plushie (L)",
+    "pronunciation": "limitedstyle#2tsukasaplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10923,
+    "name": "Limited Style #2 Mafuyu Plushie (S)",
+    "pronunciation": "limitedstyle#2mafuyuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10924,
+    "name": "Limited Style #2 Mafuyu Plushie (M)",
+    "pronunciation": "limitedstyle#2mafuyuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10925,
+    "name": "Limited Style #2 Mafuyu Plushie (L)",
+    "pronunciation": "limitedstyle#2mafuyuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10926,
+    "name": "Limited Style #2 Miku Plushie (S)",
+    "pronunciation": "limitedstyle#2mikuplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10927,
+    "name": "Limited Style #2 Miku Plushie (M)",
+    "pronunciation": "limitedstyle#2mikuplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10928,
+    "name": "Limited Style #2 Miku Plushie (L)",
+    "pronunciation": "limitedstyle#2mikuplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10929,
+    "name": "Limited Style #2 Rin Plushie (S)",
+    "pronunciation": "limitedstyle#2rinplushie(s)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10930,
+    "name": "Limited Style #2 Rin Plushie (M)",
+    "pronunciation": "limitedstyle#2rinplushie(m)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10931,
+    "name": "Limited Style #2 Rin Plushie (L)",
+    "pronunciation": "limitedstyle#2rinplushie(l)",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10947,
+    "name": "Honami's Birthday Cake",
+    "pronunciation": "honami'sbirthdaycake",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10948,
+    "name": "Honami's Birthday Balloons",
+    "pronunciation": "honami'sbirthdayballoons",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10949,
+    "name": "Honami's Birthday Bouquet",
+    "pronunciation": "honami'sbirthdaybouquet",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10950,
+    "name": "Honami's Birthday Garland",
+    "pronunciation": "honami'sbirthdaygarland",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10951,
+    "name": "Honami's Birthday Chair",
+    "pronunciation": "honami'sbirthdaychair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10952,
+    "name": "Honami Mochizuki BD '26",
+    "pronunciation": "honamimochizukibd'26",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10953,
+    "name": "MEIKO's Anniversary Cake",
+    "pronunciation": "meiko'sanniversarycake",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10954,
+    "name": "MEIKO's Anniversary Balloons",
+    "pronunciation": "meiko'sanniversaryballoons",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10955,
+    "name": "MEIKO's Anniversary Bouquet",
+    "pronunciation": "meiko'sanniversarybouquet",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10956,
+    "name": "MEIKO's Anniversary Garland",
+    "pronunciation": "meiko'sanniversarygarland",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10957,
+    "name": "MEIKO's Anniversary Chair",
+    "pronunciation": "meiko'sanniversarychair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10958,
+    "name": "MEIKO AN '26",
+    "pronunciation": "meikoan'26",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10959,
+    "name": "Akito's Birthday Cake",
+    "pronunciation": "akito'sbirthdaycake",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10960,
+    "name": "Akito's Birthday Balloons",
+    "pronunciation": "akito'sbirthdayballoons",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10961,
+    "name": "Akito's Birthday Bouquet",
+    "pronunciation": "akito'sbirthdaybouquet",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10962,
+    "name": "Akito's Birthday Garland",
+    "pronunciation": "akito'sbirthdaygarland",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10963,
+    "name": "Akito's Birthday Chair",
+    "pronunciation": "akito'sbirthdaychair",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 10964,
+    "name": "Akito Shinonome BD '26",
+    "pronunciation": "akitoshinonomebd'26",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11073,
+    "name": "Hello Kitty's Piano",
+    "pronunciation": "hellokitty'spiano",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11074,
+    "name": "Pompompurin's Napping Tree",
+    "pronunciation": "pompompurin'snappingtree",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11075,
+    "name": "My Melody's Lovely Sofa",
+    "pronunciation": "mymelody'slovelysofa",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11076,
+    "name": "Pochacco's Street Wall",
+    "pronunciation": "pochacco'sstreetwall",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11077,
+    "name": "Cinnamoroll's Cafe Table",
+    "pronunciation": "cinnamoroll'scafetable",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11078,
+    "name": "KUROMI's Floor Cushion",
+    "pronunciation": "kuromi'sfloorcushion",
+    "mysekaiFixtureTagType": "none"
+  },
+  {
+    "id": 11462,
+    "name": "Mirai Figure",
+    "pronunciation": "miraifigure",
+    "mysekaiFixtureTagType": "none"
+  }
+]

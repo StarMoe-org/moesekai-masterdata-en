@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "birthdayPartyId": 1,
+    "cardId": 1260,
+    "rate": 50
+  },
+  {
+    "id": 2,
+    "birthdayPartyId": 1,
+    "cardId": 1010,
+    "rate": 15
+  },
+  {
+    "id": 3,
+    "birthdayPartyId": 1,
+    "cardId": 767,
+    "rate": 15
+  },
+  {
+    "id": 4,
+    "birthdayPartyId": 1,
+    "cardId": 516,
+    "rate": 15
+  },
+  {
+    "id": 5,
+    "birthdayPartyId": 1,
+    "cardId": 295,
+    "rate": 15
+  },
+  {
+    "id": 6,
+    "birthdayPartyId": 2,
+    "cardId": 1271,
+    "rate": 50
+  },
+  {
+    "id": 7,
+    "birthdayPartyId": 2,
+    "cardId": 1021,
+    "rate": 15
+  },
+  {
+    "id": 8,
+    "birthdayPartyId": 2,
+    "cardId": 778,
+    "rate": 15
+  },
+  {
+    "id": 9,
+    "birthdayPartyId": 2,
+    "cardId": 527,
+    "rate": 15
+  },
+  {
+    "id": 10,
+    "birthdayPartyId": 2,
+    "cardId": 306,
+    "rate": 15
+  },
+  {
+    "id": 11,
+    "birthdayPartyId": 3,
+    "cardId": 1277,
+    "rate": 50
+  },
+  {
+    "id": 12,
+    "birthdayPartyId": 3,
+    "cardId": 1027,
+    "rate": 15
+  },
+  {
+    "id": 13,
+    "birthdayPartyId": 3,
+    "cardId": 784,
+    "rate": 15
+  },
+  {
+    "id": 14,
+    "birthdayPartyId": 3,
+    "cardId": 533,
+    "rate": 15
+  },
+  {
+    "id": 15,
+    "birthdayPartyId": 3,
+    "cardId": 312,
+    "rate": 15
+  },
+  {
+    "id": 16,
+    "birthdayPartyId": 4,
+    "cardId": 1278,
+    "rate": 50
+  },
+  {
+    "id": 17,
+    "birthdayPartyId": 4,
+    "cardId": 1033,
+    "rate": 15
+  },
+  {
+    "id": 18,
+    "birthdayPartyId": 4,
+    "cardId": 790,
+    "rate": 15
+  },
+  {
+    "id": 19,
+    "birthdayPartyId": 4,
+    "cardId": 534,
+    "rate": 15
+  },
+  {
+    "id": 20,
+    "birthdayPartyId": 4,
+    "cardId": 318,
+    "rate": 15
+  }
+]

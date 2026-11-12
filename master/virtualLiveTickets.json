@@ -1,0 +1,25 @@
+[
+  {
+    "id": 3,
+    "virtualLiveId": 154,
+    "virtualLiveTicketType": "paid",
+    "name": "「コネクトライブ Vivid BAD SQUAD 1st CRASH」公演チケット",
+    "flavorText": "「コネクトライブ Vivid BAD SQUAD 1st CRASH」に入場するために必要なアイテム。",
+    "assetbundleName": "rtvl_ticket_1st_vbs"
+  },
+  {
+    "id": 5,
+    "virtualLiveId": 176,
+    "virtualLiveTicketType": "paid",
+    "name": "「コネクトライブ 2nd ANNIVERSARY SPECIAL STAGE」公演チケット",
+    "flavorText": "「コネクトライブ 2nd ANNIVERSARY SPECIAL STAGE」に入場するために必要なアイテム。",
+    "assetbundleName": "rtvl_ticket_2ndanniversary"
+  },
+  {
+    "id": 25,
+    "virtualLiveTicketType": "paid_virtual_live",
+    "name": "JP 5th Anniversary Special Message Ticket",
+    "flavorText": "This is a ticket to participate in the \"JP 5th Anniversary Special Message\".",
+    "assetbundleName": "vlm_ticket_5th_anniversary"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "itemId": 1,
+    "platform": "Android",
+    "productId": "com.sega.colorfulstage.subscription.0001",
+    "price": 4.989999771118164,
+    "priceJpy": 738,
+    "halfPrice": 1.9900000095367432,
+    "halfPriceJpy": 369
+  },
+  {
+    "id": 2,
+    "itemId": 1,
+    "platform": "iOS",
+    "productId": "com.sega.colorfulstage.subscription.0001",
+    "price": 4.989999771118164,
+    "priceJpy": 738,
+    "halfPrice": 1.9900000095367432,
+    "halfPriceJpy": 369
+  },
+  {
+    "id": 3,
+    "itemId": 2,
+    "platform": "Android",
+    "productId": "com.sega.colorfulstage.subscription.0002",
+    "price": 9.989999771118164,
+    "priceJpy": 1478,
+    "halfPrice": 4.989999771118164,
+    "halfPriceJpy": 739
+  },
+  {
+    "id": 4,
+    "itemId": 2,
+    "platform": "iOS",
+    "productId": "com.sega.colorfulstage.subscription.0002",
+    "price": 9.989999771118164,
+    "priceJpy": 1478,
+    "halfPrice": 4.989999771118164,
+    "halfPriceJpy": 739
+  },
+  {
+    "id": 5,
+    "itemId": 3,
+    "platform": "Android",
+    "productId": "com.sega.colorfulstage.subscription.0003",
+    "price": 29.989999771118164,
+    "priceJpy": 4438,
+    "halfPrice": 14.989999771118164,
+    "halfPriceJpy": 2219
+  },
+  {
+    "id": 6,
+    "itemId": 3,
+    "platform": "iOS",
+    "productId": "com.sega.colorfulstage.subscription.0003",
+    "price": 29.989999771118164,
+    "priceJpy": 4438,
+    "halfPrice": 14.989999771118164,
+    "halfPriceJpy": 2219
+  }
+]

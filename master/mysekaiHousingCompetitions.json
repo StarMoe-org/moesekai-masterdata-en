@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Your MYSEKAI",
+    "description": "マイセカイ百景実装記念",
+    "submitStartAt": 1790812800000,
+    "reviewStartAt": 1790812800000,
+    "submitEndAt": 1791331199000,
+    "aggregateAt": 1791331200000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "backNumberAccentColorCode": "#9DE0E4",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  },
+  {
+    "id": 2,
+    "name": "Haruka's Birthday Party 2026",
+    "description": "25年遥誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1791183600000,
+    "reviewStartAt": 1791183600000,
+    "submitEndAt": 1791788399000,
+    "aggregateAt": 1791788400000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "backNumberAccentColorCode": "#99ccff",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  },
+  {
+    "id": 3,
+    "name": "Honami's Birthday Party 2026",
+    "description": "25年穂波誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1793084400000,
+    "reviewStartAt": 1793084400000,
+    "submitEndAt": 1793692799000,
+    "aggregateAt": 1793692800000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "backNumberAccentColorCode": "#ee6666",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  },
+  {
+    "id": 4,
+    "name": "MEIKO's Anniversary Party 2026",
+    "description": "25年MEIKO記念日と連携したマイセカイ百景",
+    "submitStartAt": 1793865600000,
+    "reviewStartAt": 1793865600000,
+    "submitEndAt": 1794470399000,
+    "aggregateAt": 1794470400000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "backNumberAccentColorCode": "#dd4444",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  },
+  {
+    "id": 5,
+    "name": "Akito's Birthday Party 2026",
+    "description": "25年彰人誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1794470400000,
+    "reviewStartAt": 1794470400000,
+    "submitEndAt": 1795075199000,
+    "aggregateAt": 1795075200000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+    "backNumberAccentColorCode": "#ff7722",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  },
+  {
+    "id": 6,
+    "name": "Shizuku's Birthday Party 2026",
+    "description": "25年雫誕生日と連携したマイセカイ百景",
+    "submitStartAt": 1796544000000,
+    "reviewStartAt": 1796544000000,
+    "submitEndAt": 1797148799000,
+    "aggregateAt": 1797148800000,
+    "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+    "backNumberAccentColorCode": "#99eedd",
+    "mysekaiHousingCompetitionReviewRankId": 1
+  }
+]
